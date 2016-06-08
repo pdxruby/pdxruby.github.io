@@ -9,6 +9,13 @@
 
     <div class="content container">
       {{ content }}
+
+      {% if page.path and site.github.name and site.github.project and site.github.branch %}
+        <div class="post-edit">
+          <a href="http://prose.io/#{{ site.github.name }}/{{ site.github.project }}/edit/{{ site.github.branch }}/{{ page.path }}">edit this page</a>
+        </div>
+      {% endif %}
+
     </div>
 
   </body>
