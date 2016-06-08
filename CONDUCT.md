@@ -1,5 +1,7 @@
 ---
 title: Code of Conduct
+permalink: /codeofconduct
+redirect_from: /CONDUCT
 ---
 
 ### Table of Contents
