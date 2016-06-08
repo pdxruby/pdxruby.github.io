@@ -16,10 +16,9 @@ New to Ruby or programming? Take a look at our list of resources for learning Ru
     -   [Sinatra](http://www.sinatrarb.com/intro "http://www.sinatrarb.com/intro") is a easy to use tool for writing web applications, and is probably a better place to start than with Rails. Consider using it with [Sequel](http://sequel.rubyforge.org/ "http://sequel.rubyforge.org/") for using a database.
     -   [Ruby on Rails](http://rubyonrails.org/ "http://rubyonrails.org/") is a powerful web application framework.
         -   [Rails Guides](http://guides.rubyonrails.org/ "http://guides.rubyonrails.org/") provides examples for how to use most Rails features, and is what most Rails programmers rely on.
-        -   [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ "http://ruby.railstutorial.org/") great book for beginners that covers a lot of material ([a free html version is also provided](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book/ "http://ruby.railstutorial.org/ruby-on-rails-tutorial-book/")).
+        -   [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ "http://ruby.railstutorial.org/") great book for beginners that covers a lot of material ([a free html version is also provided](https://www.railstutorial.org/book)).
         -   [Rails for Zombies](http://railsforzombies.org/ "http://railsforzombies.org/") is a fun, interactive course for learning Rails basics.
         -   [APIdock](http://apidock.com/rails "http://apidock.com/rails") documentation for Rails' API
-        -   [Rails n00b](http://rubytune.com/railsn00b "http://rubytune.com/railsn00b") A collection of educational resources curated by Rubytune
 -   Databases
     -   Tools
         -   [Sequel](http://sequel.rubyforge.org/ "http://sequel.rubyforge.org/") is an easy to use toolkit for interacting with relational databases, and is probably a better place to start with databases than ActiveRecord.
