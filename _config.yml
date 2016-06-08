@@ -15,6 +15,17 @@ url: "http://pdxruby.org" # the base hostname & protocol for your site
 twitter_username: pdxruby
 github:
   repo: https://github.com/pdxruby/pdxruby.github.io
+  name: pdxruby
+  project: pdxruby.github.io
+  branch: master
+# For the prose editor
+prose:
+  siteurl: 'http://pdxruby.github.io'
+  relativeLinks: 'http://pdxruby.github.io/links.jsonp'
+
+# Build settings
+markdown: kramdown
+timezone: "America/Los_Angeles"
 defaults:
   -
     scope:
@@ -22,9 +33,6 @@ defaults:
     values:
       layout: "default"
 
-# Build settings
-markdown: kramdown
-timezone: "America/Los_Angeles"
-
 gems:
   - jekyll-gist
+  - jekyll-redirect-from
