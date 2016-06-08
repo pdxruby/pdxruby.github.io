@@ -30,18 +30,18 @@ Please…
     post.
 -   take a look at several well-received posts
     -   [Anyone interested in Ruby
-        work?](https://groups.google.com/d/msg/pdxruby/tMb6k44relI/ojsizgNa0bgJ "https://groups.google.com/d/msg/pdxruby/tMb6k44relI/ojsizgNa0bgJ")
+        work?](https://groups.google.com/d/msg/pdxruby/tMb6k44relI/ojsizgNa0bgJ)
     -   [Looking for experienced RoR developer and project
-        partner](https://groups.google.com/d/msg/pdxruby/FZpJ6jmLdvs/Ip4FG2SDrbUJ "https://groups.google.com/d/msg/pdxruby/FZpJ6jmLdvs/Ip4FG2SDrbUJ")
+        partner](https://groups.google.com/d/msg/pdxruby/FZpJ6jmLdvs/Ip4FG2SDrbUJ)
     -   [Senior Software Engineer / Technical
-        Lead](https://groups.google.com/d/msg/pdxruby/96JcC1sbCUQ/NdQSG1v1esUJ "https://groups.google.com/d/msg/pdxruby/96JcC1sbCUQ/NdQSG1v1esUJ")
+        Lead](https://groups.google.com/d/msg/pdxruby/96JcC1sbCUQ/NdQSG1v1esUJ)
 -   take a look at what we don't care for
     -   [Sr. Ruby
-        Developer](https://groups.google.com/d/msg/pdxruby/w4VLqA5AClI/dzH7kv7r5OYJ "https://groups.google.com/d/msg/pdxruby/w4VLqA5AClI/dzH7kv7r5OYJ")
+        Developer](https://groups.google.com/d/msg/pdxruby/w4VLqA5AClI/dzH7kv7r5OYJ)
     -   [The "Ruby On Rails - Mastermind"
-        Opportunities](https://groups.google.com/d/msg/pdxruby/T9cARxxLQqA/L2oC2iz67CgJ "https://groups.google.com/d/msg/pdxruby/T9cARxxLQqA/L2oC2iz67CgJ")
+        Opportunities](https://groups.google.com/d/msg/pdxruby/T9cARxxLQqA/L2oC2iz67CgJ)
     -   [Ruby on Rails
-        Developer](https://groups.google.com/d/msg/pdxruby/8X2gR9qs4So/C4SqAxiUniYJ "https://groups.google.com/d/msg/pdxruby/8X2gR9qs4So/C4SqAxiUniYJ")
+        Developer](https://groups.google.com/d/msg/pdxruby/8X2gR9qs4So/C4SqAxiUniYJ)
 
 If you have any questions about posting a job, please send a message to
 the organizers on Meetup. Also, please ask before posting a job message
