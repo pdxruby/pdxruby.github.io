@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:pdxruby.org,2005:/old/events</id>
+  <link type="text/html" rel="alternate" href="http://pdxruby.org"/>
+  <link type="application/atom+xml" rel="self" href="http://pdxruby.org/old/events.atom"/>
+  <title>Portland Ruby Brigade events</title>
+  <updated>2012-07-19T12:55:47-07:00</updated>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/135</id>
+    <published>2012-07-10T02:08:23-07:00</published>
+    <updated>2012-07-19T12:55:47-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/135"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2012-07-19T19:55:47Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Sep 04, 2012 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;TBD, Nowhere
+(This is just a placeholder for events with no defined location)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby, libraries, tools and techniques. The group usually meets on the first Tuesday of the month, &amp;#8220;Ruby Tuesday&amp;#8221;.&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/133</id>
+    <published>2012-05-30T20:02:13-07:00</published>
+    <updated>2012-05-30T20:02:13-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/133"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2012-05-31T03:02:13Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Aug 07, 2012 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;CrowdCompass office in the Ford Building, 2505 SE 11th Ave, #300
+Portland, OR 97202, US
+
+ACCESS NOTES: Suite 300, 3rd floor. Office will have a CrowdCompass sign. Enter the building after hours on Division by walking through Ford Food &amp;amp;amp; Drink, or on 11th by walking through the parking lot.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby, libraries, tools and techniques. The group usually meets on the first Tuesday of the month, &amp;#8220;Ruby Tuesday&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: This venue is kindly provided by CrowdCompass, &#8220;the ultimate mobile app provider for conferences&#8221;: http://www.crowdcompass.com/&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/137</id>
+    <published>2012-08-02T11:39:51-07:00</published>
+    <updated>2012-08-02T11:39:51-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/137"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2012-08-02T18:39:51Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Oct 02, 2012 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;TBD, Nowhere
+(This is just a placeholder for events with no defined location)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby, libraries, tools and techniques. The group usually meets on the first Tuesday of the month, &amp;#8220;Ruby Tuesday&amp;#8221;.&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/136</id>
+    <published>2012-07-10T02:09:31-07:00</published>
+    <updated>2012-07-10T02:21:05-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/136"/>
+    <title>Ruby Beginners Meetup, aka Ruby Newbie Brewby</title>
+    <updated>2012-07-10T09:21:05Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Jul 17, 2012 at 07:00PM &amp;mdash; 11:30PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;CrowdCompass office in the Ford Building, 2505 SE 11th Ave, #300
+Portland, OR 97202, US
+
+ACCESS NOTES: Suite 300, 3rd floor. Office will have a CrowdCompass sign. Enter the building after hours on Division by walking through Ford Food &amp;amp;amp; Drink, or on 11th by walking through the parking lot.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Informal meetup targeted at newcomers to Ruby. Bring questions. Drink $beverage. Hack.&lt;/p&gt;
+&lt;p&gt;Experienced Rubyists welcome; we want you to share your expertise!&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://calagator.org/events/1250462492"&gt;http://calagator.org/events/1250462492&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/132</id>
+    <published>2012-05-30T20:01:57-07:00</published>
+    <updated>2012-05-30T20:01:57-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/132"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2012-05-31T03:01:57Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Jul 03, 2012 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;CrowdCompass office in the Ford Building, 2505 SE 11th Ave, #300
+Portland, OR 97202, US
+
+ACCESS NOTES: Suite 300, 3rd floor. Office will have a CrowdCompass sign. Enter the building after hours on Division by walking through Ford Food &amp;amp;amp; Drink, or on 11th by walking through the parking lot.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby, libraries, tools and techniques. The group usually meets on the first Tuesday of the month, &amp;#8220;Ruby Tuesday&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: This venue is kindly provided by CrowdCompass, &#8220;the ultimate mobile app provider for conferences&#8221;: http://www.crowdcompass.com/&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/130</id>
+    <published>2012-02-17T09:25:39-08:00</published>
+    <updated>2012-04-27T15:30:15-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/130"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2012-04-27T22:30:15Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Jun 05, 2012 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;CrowdCompass office in the Ford Building, 2505 SE 11th Ave, #300
+Portland, OR 97202, US
+
+ACCESS NOTES: Suite 300, 3rd floor. Office will have a CrowdCompass sign. Enter the building after hours on Division by walking through Ford Food &amp;amp;amp; Drink, or on 11th by walking through the parking lot.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby, libraries, tools and techniques. The group usually meets on the first Tuesday of the month, &amp;#8220;Ruby Tuesday&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: This venue is kindly provided by CrowdCompass, &#8220;the ultimate mobile app provider for conferences&#8221;: http://www.crowdcompass.com/&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/129</id>
+    <published>2012-02-17T09:24:57-08:00</published>
+    <updated>2012-04-27T15:30:34-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/129"/>
+    <title>Portland Ruby Brigade monthly meeting [NEW VENUE]</title>
+    <updated>2012-04-27T22:30:34Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue May 01, 2012 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;CrowdCompass office in the Ford Building, 2505 SE 11th Ave, #300
+Portland, OR 97202, US
+
+ACCESS NOTES: Suite 300, 3rd floor. Office will have a CrowdCompass sign. Enter the building after hours on Division by walking through Ford Food &amp;amp;amp; Drink, or on 11th by walking through the parking lot.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby, libraries, tools and techniques. The group usually meets on the first Tuesday of the month, &amp;#8220;Ruby Tuesday&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: This venue is kindly provided by CrowdCompass, &#8220;the ultimate mobile app provider for conferences&#8221;: http://www.crowdcompass.com/&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/128</id>
+    <published>2012-02-17T09:23:55-08:00</published>
+    <updated>2012-03-27T12:37:23-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/128"/>
+    <title>Portland Ruby Brigade monthly meeting (NEW VENUE)</title>
+    <updated>2012-03-27T19:37:23Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Apr 03, 2012 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;CrowdCompass office in the Ford Building, 2505 SE 11th Ave, #300
+Portland, OR 97202, US
+
+ACCESS NOTES: Suite 300, 3rd floor. Office will have a CrowdCompass sign. Enter the building after hours on Division by walking through Ford Food &amp;amp;amp; Drink, or on 11th by walking through the parking lot.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby, libraries, tools and techniques. The group usually meets on the first Tuesday of the month, &amp;#8220;Ruby Tuesday&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: This venue is kindly provided by CrowdCompass, &amp;#8220;the ultimate mobile app provider for conferences&amp;#8221;: http://www.crowdcompass.com/&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/126</id>
+    <published>2011-12-19T12:04:03-08:00</published>
+    <updated>2011-12-19T12:04:03-08:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/126"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2011-12-19T20:04:03Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Mar 06, 2012 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Robert Half Technology, 2nd Floor Conference Room, 222 SW Columbia St
+Portland OR 97201
+US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby, libraries, tools and techniques. The group usually meets on the first Tuesday of the month, &amp;#8220;Ruby Tuesday&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: The building entrance is on SW Columbia between 2nd and 3rd Avenue. The door may be locked, but there&amp;#8217;s a guard on site that will let you in and you can use the doorbell to summon them. Ask the guard nicely to let you up to the 2nd floor conference room, the elevators require them to use a key card. When you get to the 2nd floor, just follow the &amp;#8220;pdxruby&amp;#8221; signs. This meeting space is kindly offered to us by Robert Half Technology, a company that provides IT staffing services and positions: http://www.roberthalftechnology.com/&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/127</id>
+    <published>2012-02-17T09:22:17-08:00</published>
+    <updated>2012-02-17T09:22:17-08:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/127"/>
+    <title>Ruby Beginners Meetup, aka Ruby Newbie Brewby</title>
+    <updated>2012-02-17T17:22:17Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Feb 21, 2012 at 07:00PM &amp;mdash; 11:30PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Blitz Ladd , 2239 SE 11th Ave
+Portland, OR 97214&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Informal meetup targeted at newcomers to Ruby. Bring questions. Drink $beverage. Hack.&lt;/p&gt;
+&lt;p&gt;Experienced Rubyists welcome; we want you to share your expertise!&lt;/p&gt;
+&lt;p&gt;http://calagator.org/events/1250461974&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/125</id>
+    <published>2011-12-19T12:03:44-08:00</published>
+    <updated>2011-12-19T12:03:44-08:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/125"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2011-12-19T20:03:44Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Feb 07, 2012 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Robert Half Technology, 2nd Floor Conference Room, 222 SW Columbia St
+Portland OR 97201
+US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby, libraries, tools and techniques. The group usually meets on the first Tuesday of the month, &amp;#8220;Ruby Tuesday&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: The building entrance is on SW Columbia between 2nd and 3rd Avenue. The door may be locked, but there&amp;#8217;s a guard on site that will let you in and you can use the doorbell to summon them. Ask the guard nicely to let you up to the 2nd floor conference room, the elevators require them to use a key card. When you get to the 2nd floor, just follow the &amp;#8220;pdxruby&amp;#8221; signs. This meeting space is kindly offered to us by Robert Half Technology, a company that provides IT staffing services and positions: http://www.roberthalftechnology.com/&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/124</id>
+    <published>2011-12-19T12:03:25-08:00</published>
+    <updated>2011-12-19T12:03:25-08:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/124"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2011-12-19T20:03:25Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Jan 03, 2012 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Robert Half Technology, 2nd Floor Conference Room, 222 SW Columbia St
+Portland OR 97201
+US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby, libraries, tools and techniques. The group usually meets on the first Tuesday of the month, &amp;#8220;Ruby Tuesday&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: The building entrance is on SW Columbia between 2nd and 3rd Avenue. The door may be locked, but there&amp;#8217;s a guard on site that will let you in and you can use the doorbell to summon them. Ask the guard nicely to let you up to the 2nd floor conference room, the elevators require them to use a key card. When you get to the 2nd floor, just follow the &amp;#8220;pdxruby&amp;#8221; signs. This meeting space is kindly offered to us by Robert Half Technology, a company that provides IT staffing services and positions: http://www.roberthalftechnology.com/&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/123</id>
+    <published>2011-12-19T11:51:28-08:00</published>
+    <updated>2011-12-19T11:51:28-08:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/123"/>
+    <title>Ruby Beginners Meetup, aka Ruby Newbie Brewby</title>
+    <updated>2011-12-19T19:51:28Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Dec 20, 2011 at 07:00PM &amp;mdash; 11:30PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Blitz Ladd , 2239 SE 11th Ave
+Portland, OR 97214&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Informal meetup targeted at newcomers to Ruby. Bring questions. Drink $beverage. Hack.&lt;/p&gt;
+&lt;p&gt;Experienced Rubyists welcome; we want you to share your expertise!&lt;/p&gt;
+&lt;p&gt;http://calagator.org/events/1250461739&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/119</id>
+    <published>2011-09-19T13:59:02-07:00</published>
+    <updated>2011-09-19T13:59:02-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/119"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2011-09-19T20:59:02Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Dec 06, 2011 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Robert Half Technology, 2nd Floor Conference Room, 222 SW Columbia St
+Portland OR 97201
+US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby, libraries, tools and techniques. The group usually meets on the first Tuesday of the month, &amp;#8220;Ruby Tuesday&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: The building entrance is on SW Columbia between 2nd and 3rd Avenue. The door may be locked, but there&amp;#8217;s a guard on site that will let you in and you can use the doorbell to summon them. Ask the guard nicely to let you up to the 2nd floor conference room, the elevators require them to use a key card. When you get to the 2nd floor, just follow the &amp;#8220;pdxruby&amp;#8221; signs. This meeting space is kindly offered to us by Robert Half Technology, a company that provides IT staffing services and positions: http://www.roberthalftechnology.com/&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/122</id>
+    <published>2011-10-21T11:20:53-07:00</published>
+    <updated>2011-10-21T11:20:53-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/122"/>
+    <title>Ruby Beginners Meetup</title>
+    <updated>2011-10-21T18:20:53Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Nov 15, 2011 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Renewable Funding, 400 SW 6th Avenue, Suite 902
+Portland, OR 97204, US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Informal meeting targeted at newcomers to Ruby. Bring questions. Answer questions. Hack.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;ll try a different format this time: as you arrive, you can write a topic of interest on the whiteboard. We&amp;#8217;ll talk a little bit about what the topics are, then split up into small groups to take advantage of the way our office space is laid out. (We even have a few free desks if some people want to pair.)&lt;/p&gt;
+&lt;p&gt;Experienced Rubyists welcome; we want you to share your expertise!&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/118</id>
+    <published>2011-09-19T13:58:46-07:00</published>
+    <updated>2011-09-19T13:58:46-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/118"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2011-09-19T20:58:46Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Nov 01, 2011 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Robert Half Technology, 2nd Floor Conference Room, 222 SW Columbia St
+Portland OR 97201
+US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby, libraries, tools and techniques. The group usually meets on the first Tuesday of the month, &amp;#8220;Ruby Tuesday&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: The building entrance is on SW Columbia between 2nd and 3rd Avenue. The door may be locked, but there&amp;#8217;s a guard on site that will let you in and you can use the doorbell to summon them. Ask the guard nicely to let you up to the 2nd floor conference room, the elevators require them to use a key card. When you get to the 2nd floor, just follow the &amp;#8220;pdxruby&amp;#8221; signs. This meeting space is kindly offered to us by Robert Half Technology, a company that provides IT staffing services and positions: http://www.roberthalftechnology.com/&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/121</id>
+    <published>2011-10-15T14:01:49-07:00</published>
+    <updated>2011-10-15T14:01:49-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/121"/>
+    <title>Ruby Beginners Meetup </title>
+    <updated>2011-10-15T21:01:49Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Oct 18, 2011 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Renewable Funding, 400 SW 6th Avenue, Suite 902
+Portland, OR 97204, US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Informal meetup targeted at newcomers to Ruby. Ask questions. Answer questions. Hack.&lt;/p&gt;
+&lt;p&gt;Experienced Rubyists welcome; we want you to share your expertise!&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/115</id>
+    <published>2011-08-07T14:21:10-07:00</published>
+    <updated>2011-08-07T14:21:10-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/115"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2011-08-07T21:21:10Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Oct 04, 2011 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Robert Half Technology, 2nd Floor Conference Room, 222 SW Columbia St
+Portland OR 97201
+US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby, libraries, tools and techniques. The group usually meets on the first Tuesday of the month, &amp;#8220;Ruby Tuesday&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: The building entrance is on SW Columbia between 2nd and 3rd Avenue. The door may be locked, but there&amp;#8217;s a guard on site that will let you in and you can use the doorbell to summon them. Ask the guard nicely to let you up to the 2nd floor conference room, the elevators require them to use a key card. When you get to the 2nd floor, just follow the &amp;#8220;pdxruby&amp;#8221; signs. This meeting space is kindly offered to us by Robert Half Technology, a company that provides IT staffing services and positions: http://www.roberthalftechnology.com/&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/120</id>
+    <published>2011-09-19T14:00:06-07:00</published>
+    <updated>2011-09-19T14:00:06-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/120"/>
+    <title>Ruby Beginners Meetup </title>
+    <updated>2011-09-19T21:00:06Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Sep 20, 2011 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Blitz Ladd , 2239 SE 11th Ave
+Portland, OR 97214&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Informal meetup targeted at newcomers to Ruby. Ask questions. Answer questions. Hack.&lt;/p&gt;
+&lt;p&gt;Experienced Rubyists welcome; we want you to share your expertise!&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/112</id>
+    <published>2011-06-20T16:33:55-07:00</published>
+    <updated>2011-06-20T16:33:55-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/112"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2011-06-20T23:33:55Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Sep 06, 2011 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Robert Half Technology, 2nd Floor Conference Room, 222 SW Columbia St
+Portland OR 97201
+US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby and its uses.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: The building entrance is on SW Columbia between 2nd and 3rd Avenue. The door may be locked, but there&amp;#8217;s a guard on site that will let you in and you can use the doorbell to summon them. Ask the guard nicely to let you up to the 2nd floor conference room, the elevators require them to use a key card. When you get to the 2nd floor, just follow the &amp;#8220;pdxruby&amp;#8221; signs. This meeting space is kindly offered to us by Robert Half Technology, a company that provides IT staffing services and positions: http://www.roberthalftechnology.com/&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/116</id>
+    <published>2011-08-07T14:25:30-07:00</published>
+    <updated>2011-08-07T14:25:30-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/116"/>
+    <title>Ruby Beginners Meetup </title>
+    <updated>2011-08-07T21:25:30Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Aug 23, 2011 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Collective Agency , 322 NW Sixth Ave, Suite 200 (between Everett &amp;amp;amp; Flanders)
+Portland, OR 97209, US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Informal meetup targeted at newcomers to Ruby. Ask questions. Answer questions. Hack.&lt;/p&gt;
+&lt;p&gt;This is a bonus beginners&amp;#8217; meetup, specifically aimed at the then-to-be-alumni of the Intro to Programming workshop on the 19th and 20th.&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/117</id>
+    <published>2011-08-07T14:29:37-07:00</published>
+    <updated>2011-08-07T14:29:37-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/117"/>
+    <title>Beginning Programming for Women, Ruby Edition: Workshop [RSVP required]</title>
+    <updated>2011-08-07T21:29:37Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Sat Aug 20, 2011 at 09:30AM &amp;mdash; 05:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Collective Agency , 322 NW Sixth Ave, Suite 200 (between Everett &amp;amp;amp; Flanders)
+Portland, OR 97209, US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;http://pdxtechworkshops.org/2011/07/19/beginning-programming-for-women-ruby-edition/&lt;br /&gt;
+Description&lt;/p&gt;
+&lt;p&gt;Free beginning programming workshop for women. This inaugural workshop will focus on web development with Ruby and Rails. The workshop is free. You must attend both the Friday evening install fest and the Saturday workshop.&lt;/p&gt;
+&lt;p&gt;Register here: &lt;br /&gt;
+http://pdxdevwrkshp.eventbrite.com/&lt;/p&gt;
+&lt;p&gt;If you would like to help plan, join our Google group here: &lt;br /&gt;
+http://groups.google.com/group/lot-workshops&lt;/p&gt;
+&lt;p&gt;A note about our audience:&lt;/p&gt;
+&lt;p&gt;These workshops will be a series of events meant to increase gender diversity across the spectrum of the Portland software development community. Each workshop will familiarize participants with a programming language and its ecosystem through tutorials, practice exercises, and one-on-one help from volunteer guides. Attendees will learn the basic skills and vocabulary needed to start participating in the relevant user groups and open source projects.&lt;/p&gt;
+&lt;p&gt;In keeping with our goal of increasing gender diversity, we open these workshops to all self-identified women and genderqueer persons. Men are welcome to attend when invited by an attending member of these qualifying groups.&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/111</id>
+    <published>2011-04-29T11:32:38-07:00</published>
+    <updated>2011-06-20T16:33:25-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/111"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2011-06-20T23:33:25Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Aug 02, 2011 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Robert Half Technology, 2nd Floor Conference Room, 222 SW Columbia St
+Portland OR 97201
+US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby and its uses.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: The building entrance is on SW Columbia between 2nd and 3rd Avenue. The door may be locked, but there&#8217;s a guard on site that will let you in and you can use the doorbell to summon them. Ask the guard nicely to let you up to the 2nd floor conference room, the elevators require them to use a key card. When you get to the 2nd floor, just follow the &#8220;pdxruby&#8221; signs. This meeting space is kindly offered to us by Robert Half Technology, a company that provides IT staffing services and positions: http://www.roberthalftechnology.com/&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/114</id>
+    <published>2011-06-30T06:47:57-07:00</published>
+    <updated>2011-06-30T06:47:57-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/114"/>
+    <title>Ruby Beginners Meetup </title>
+    <updated>2011-06-30T13:47:57Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Jul 19, 2011 at 07:00PM &amp;mdash; 11:30PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;The Lucky Lab, 915 SE Hawthorne Blvd.
+Portland, OR 97214 &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Informal meetup targeted at newcomers to Ruby. Bring questions. Drink $beverage. Hack.&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/110</id>
+    <published>2011-04-29T11:31:36-07:00</published>
+    <updated>2011-06-20T16:33:17-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/110"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2011-06-20T23:33:17Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Jul 05, 2011 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Robert Half Technology, 2nd Floor Conference Room, 222 SW Columbia St
+Portland OR 97201
+US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join other developers for presentations and discussions about Ruby and its uses. If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby and its uses.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: The building entrance is on SW Columbia between 2nd and 3rd Avenue. The door may be locked, but there&amp;#8217;s a guard on site that will let you in and you can use the doorbell to summon them. Ask the guard nicely to let you up to the 2nd floor conference room, the elevators require them to use a key card. When you get to the 2nd floor, just follow the &amp;#8220;pdxruby&amp;#8221; signs. This meeting space is kindly offered to us by Robert Half Technology, a company that provides IT staffing services and positions: http://www.roberthalftechnology.com/&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/113</id>
+    <published>2011-06-20T17:17:54-07:00</published>
+    <updated>2011-06-20T17:24:48-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/113"/>
+    <title>Portland Ruby Brigade birds-of-a-feather at Open Source Bridge</title>
+    <updated>2011-06-21T00:24:48Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Wed Jun 22, 2011 at 07:00PM &amp;mdash; 08:30PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Eliot Center (First Unitarian Church), 1226 SW Salmon St
+Portland, OR 97201, US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://opensourcebridge.org/sessions/721"&gt;http://opensourcebridge.org/sessions/721&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Ruby programming language continues to be popular for web development and other uses in Portland and beyond. Come talk about what you&#8217;re working on, and find out what other people are using Ruby for.&lt;/p&gt;
+&lt;p&gt;If you&amp;#8217;d like to give a short talk (3-10 minutes), please prepare and mention it at the beginning of the meeting so we can add you to the agenda. We&amp;#8217;ll spend the rest of the time on open discussions, which will be awesome.&lt;/p&gt;
+&lt;p&gt;The Portland Ruby Brigade (pdxruby) meets regularly to discuss these topics. See http://pdxruby.org for details.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;IMPORTANT&lt;/span&gt;: If you don&#8217;t already have a ticket for the Open Source Bridge conference, you&#8217;ll need to either buy one or register for a free &#8220;Community Pass&#8221; that will let you into the Friday unconference, Hacker Lounge and the evening BoFs: http://osbridge.eventbrite.com/&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: Room B301, Eliot Center (First Unitarian Church), 1226 SW Salmon St, Portland, OR 97201.&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/109</id>
+    <published>2011-04-05T00:19:32-07:00</published>
+    <updated>2011-04-05T00:19:32-07:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/109"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2011-04-05T07:19:32Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Jun 07, 2011 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Robert Half Technology, 2nd Floor Conference Room, 222 SW Columbia St
+Portland OR 97201
+US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby and its uses.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: This meeting&#8217;s space is kindly provided by Robert Half Technology at their 2nd Floor Conference Room. Enter the &lt;span class="caps"&gt;KOIN&lt;/span&gt; Tower from SW Columbia between 2nd and 3rd Avenue, take the back elevators to the 2nd floor, and then follow the pdxruby signs.&lt;/p&gt;
+&lt;p&gt;If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list today!&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/108</id>
+    <published>2011-02-26T11:30:06-08:00</published>
+    <updated>2011-02-26T11:30:06-08:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/108"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2011-02-26T19:30:06Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue May 03, 2011 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Robert Half Technology, 2nd Floor Conference Room, 222 SW Columbia St
+Portland OR 97201
+US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby and its uses.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: This meeting&#8217;s space is kindly provided by Robert Half Technology at their 2nd Floor Conference Room. Enter the &lt;span class="caps"&gt;KOIN&lt;/span&gt; Tower from SW Columbia between 2nd and 3rd Avenue, take the back elevators to the 2nd floor, and then follow the pdxruby signs.&lt;/p&gt;
+&lt;p&gt;If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list today!&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/107</id>
+    <published>2011-01-10T10:16:22-08:00</published>
+    <updated>2011-01-10T10:16:22-08:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/107"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2011-01-10T18:16:22Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Apr 05, 2011 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Robert Half Technology, 2nd Floor Conference Room, 222 SW Columbia St
+Portland OR 97201
+US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby and its uses.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: This meeting&#8217;s space is kindly provided by Robert Half Technology at their 2nd Floor Conference Room. Enter the &lt;span class="caps"&gt;KOIN&lt;/span&gt; Tower from SW Columbia between 2nd and 3rd Avenue, take the back elevators to the 2nd floor, and then follow the pdxruby signs.&lt;/p&gt;
+&lt;p&gt;If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list today!&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:pdxruby.org,2005:Event/106</id>
+    <published>2011-01-10T10:16:06-08:00</published>
+    <updated>2011-01-10T10:16:06-08:00</updated>
+    <link type="text/html" rel="alternate" href="/old/events/106"/>
+    <title>Portland Ruby Brigade monthly meeting</title>
+    <updated>2011-01-10T18:16:06Z</updated>
+    <content type="html">&lt;div&gt;&lt;p&gt;&lt;b&gt;Time: &lt;/b&gt;&lt;span/&gt;Tue Mar 01, 2011 at 07:00PM &amp;mdash; 09:00PM&lt;/p&gt;&lt;p&gt;&lt;b&gt;Location: &lt;/b&gt;&lt;span&gt;Robert Half Technology, 2nd Floor Conference Room, 222 SW Columbia St
+Portland OR 97201
+US&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Agenda: &lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span class="caps"&gt;ABOUT&lt;/span&gt;: The Portland Ruby Brigade is a user group for Ruby programmers in the Portland, Oregon, area. Join other developers for presentations and discussions about Ruby and its uses.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;VENUE&lt;/span&gt;: This meeting&#8217;s space is kindly provided by Robert Half Technology at their 2nd Floor Conference Room. Enter the &lt;span class="caps"&gt;KOIN&lt;/span&gt; Tower from SW Columbia between 2nd and 3rd Avenue, take the back elevators to the 2nd floor, and then follow the pdxruby signs.&lt;/p&gt;
+&lt;p&gt;If you have a Ruby-related talk, discussion topic or question, please suggest it on the mailing list today!&lt;/p&gt;&lt;/div&gt;&lt;to_s/&gt;</content>
+  </entry>
+</feed>

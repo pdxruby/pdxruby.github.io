@@ -1,0 +1,147 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Language" content="en-us">
+    <meta name="copyright" content="(c) Copyright 2005 John Labovitz">
+    <link href="http://pdxruby.org/old/stylesheets/scaffold-1344072300.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="http://pdxruby.org/old/stylesheets/stylesheet-1344072300.css" media="screen" rel="stylesheet" type="text/css" />
+    <script src="http://pdxruby.org/old/javascripts/prototype-1344072300.js" type="text/javascript"></script>
+    <link href="../events.atom" rel="alternate" title="Portland Ruby Brigade events" type="application/atom+xml" />
+
+    <title>The Portland Ruby Brigade (PDX.rb)</title>
+  </head>
+
+  <body>
+
+    <div id="banner">
+
+      <div id="banner-obsolete">
+        <p>
+          This site is obsolete. Please go visit our <a href="../../index.html">new site</a>!
+      </p>
+      </div>
+
+      <div id="banner-left">
+        <h1>pdx.rb</h1>
+      </div>
+
+      <div id="banner-right">
+        <h1>The Portland Ruby Brigade</h1>
+      </div>
+
+    </div>
+
+    <div id="sidebar">
+      <ul>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../events.html">Events</a></li>
+        <li><a href="../members.html">Members</a></li>
+        
+          <li><a href="../login.html">Login</a></li>
+          <li><a href="new.html">Register</a></li>
+        
+      </ul>
+
+      
+    </div>
+
+    <div id="content">
+      
+      
+      
+
+      <h1>New member</h1>
+
+<form action="http://pdxruby.org/old/members" class="new_member" enctype="multipart/form-data" id="new_member" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="BF88Ki7o7iPk7yXaWj+wdI272e83bxifY5bV17wOqf4=" /></div>
+  
+
+  
+
+  
+
+  <p>
+    <label class="required_field" for="member_name">Name</label>
+    <br/>
+    <input id="member_name" name="member[name]" size="30" type="text" />
+  </p>
+
+  <p>
+    <label class="required_field" for="member_password">Password</label>
+    
+    <br/>
+    <input id="member_password" name="member_password" type="password" value="" />
+  </p>
+
+  <p>
+    <label class="required_field" for="member_verify_password">Verify password</label>
+    
+    <br/>
+    <input id="member_verify_password" name="member_verify_password" type="password" value="" />
+  </p>
+
+  <p>
+    <label class="required_field" for="member_email">Email, will only be shown to other members</label>
+    <br/>
+    <input id="member_email" name="member[email]" size="30" type="text" />
+  </p>
+
+  <p>
+    <label for="member_website">Website URL</label>
+    <br/>
+    <input id="member_website" name="member[website]" size="30" type="text" />
+  </p>
+
+  <p>
+    <label for="member_feed_url">Feed URL, an RSS or ATOM feed</label>
+    <br/>
+    <input id="member_feed_url" name="member[feed_url]" size="30" type="text" />
+  </p>
+
+  <p>
+    <label for="member_irc_nick">IRC nickname on #pdx.rb</label>
+    <br/>
+    <input id="member_irc_nick" name="member[irc_nick]" size="30" type="text" />
+  </p>
+
+  <p>
+    <label for="member_picture">Picture</label>
+    <br/>
+    
+    <input id="member_picture" name="member[picture]" size="30" type="file" />
+  </p>
+
+  <p>
+    <label class="required_field" for="member_about">Describe yourself</label>
+    <br/>
+    <a href="http://elzr.com/static/textile" onclick="window.open(this.href);return false;">(instructions for fancy formatting)</a>
+    <br/>
+    <textarea cols="40" id="member_about" name="member[about]" rows="20"></textarea>
+  </p>
+
+  <input class="dont_fill_this_in" id="dont_fill_this_in" name="dont_fill_this_in" type="text" value="" />
+
+  
+    <p>
+      <label class="required_field" for="recaptcha_response_field">Please fill in the captcha, it helps stop spam bots from abusing this form</label>
+      <br/>
+      <script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6LfVzsISAAAAAKqSl221bd3MVaaFO62OTcyqF0CS&error=expression"></script>
+<noscript>
+  <iframe src="http://www.google.com/recaptcha/api/noscript?k=6LfVzsISAAAAAKqSl221bd3MVaaFO62OTcyqF0CS" height="300" width="500" style="border:none;"></iframe><br/>
+  <textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  <input type="hidden" name="recaptcha_response_field" value="manual_challenge"/></noscript>
+
+    </p>
+  
+
+  <input id="member_submit" name="commit" type="submit" value="Create" />
+  | <a href="../members.html">Cancel</a>
+</form>
+
+
+    </div>
+
+  </body>
+</html>
