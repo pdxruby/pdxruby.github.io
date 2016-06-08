@@ -2,6 +2,8 @@
 title: Portland Ruby Brigade
 ---
 
+<img src="/public/logo.gif" alt="PDX Ruby logo" width="484" height="130" class="center" />
+
 The **Portland Ruby Brigade**, also known as **pdxruby** and **pdx.rb**,
 is a user group for Ruby programmers in the Portland, Oregon area. The
 group welcomes all programmers interested in the language and its
