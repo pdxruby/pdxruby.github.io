@@ -26,3 +26,6 @@ github_username:  pdxruby
 # Build settings
 markdown: kramdown
 timezone: "America/Los_Angeles"
+
+gems:
+  - jekyll-gist
