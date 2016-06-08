@@ -1,5 +1,6 @@
 ---
 title: Job Posting Guidelines
+redirect_from: /job_guidelines
 ---
 
 Job Posting Guidelines
