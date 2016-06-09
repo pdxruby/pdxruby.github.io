@@ -1,5 +1,6 @@
 ---
 title: Portland Ruby Brigade
+published: true
 ---
 
 <img src="/public/logo.gif" alt="PDX Ruby logo" width="484" height="130" class="center" />
@@ -83,4 +84,4 @@ couple years.
 
 You can access a static archive of the [old website](/old) to get at old
 content. However, all the functionality of that old site has now been
-replaced with this wiki, Calgator and ePDX.
+replaced with this wiki, Calagator and ePDX.
