@@ -81,6 +81,6 @@ couple years.
 
 ### Old site
 
-You can access a static archive of the [old website](http://pdxruby.org/old) to get at old
+You can access a static archive of the [old website](/old) to get at old
 content. However, all the functionality of that old site has now been
 replaced with this wiki, Calgator and ePDX.
