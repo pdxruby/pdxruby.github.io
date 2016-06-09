@@ -5,9 +5,19 @@ permalink: 404.html
 ---
 
 <div class="page">
-  <h1 class="page-title">404: Page not found</h1>
-  <p class="lead">We've misplaced that URL or it's pointing to something that doesn't exist. <a href="{{ site.baseurl }}">Head back home</a> to try finding it again.</p>
-  <p class="create">Alternatively, maybe you want to <a id="create-link" href="http://prose.io/#{{ site.github.name }}/{{ site.github.project }}/tree/{{ site.github.branch }}/">create this page</a>?
+  <h1 class="page-title">Page not found</h1>
+  <p class="lead">The link you followed points to a page that doesn't exist. You can:
+    <ul>
+      <li>
+        <a id="prose-create-link" href="http://prose.io/#{{ site.github.name }}/{{ site.github.project }}/tree/{{ site.github.branch }}/">Create this page</a> using Prose or <a id="github-create-link" href="https://github.com/{{ site.github.name }}/{{ site.github.project }}/new/{{ site.github.branch }}/">using Github</a>. Your edits will be submitted as a pull request which pirate volunteers will review and merge.
+      </li>
+      <li>
+        <a href="">Open an issue</a> to let us know the link is broken.
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}">Head back home</a> to try finding it again.
+      </li>
+    </ul>
 </div>
 
 <script src="/js/edit.js"></script>
@@ -16,6 +26,8 @@ permalink: 404.html
  var name = '{{site.github.name}}'
  var project = '{{site.github.project}}'
  var branch = '{{site.github.branch}}'
- var editA = document.getElementById('create-link');
- editA.href = createUrl(window.location.pathname, name, project, branch)
+ var proseLink = document.getElementById('prose-create-link');
+ proseLink.href = proseCreateUrl(window.location.pathname, name, project, branch)
+ var githubLink = document.getElementById('github-create-link');
+ githubLink.href = githubCreateUrl(window.location.pathname, name, project, branch)
 </script>
