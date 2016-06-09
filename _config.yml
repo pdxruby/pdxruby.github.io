@@ -24,6 +24,7 @@ github:
 prose:
   siteurl: 'http://pdxruby.github.io'
   relativeLinks: 'http://pdxruby.github.io/links.jsonp'
+  media: 'img'
 
 # Build settings
 markdown: kramdown
