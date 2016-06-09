@@ -12,7 +12,7 @@
 
       {% if page.path and site.github.name and site.github.project and site.github.branch %}
         <div class="post-edit">
-          <a href="http://prose.io/#{{ site.github.name }}/{{ site.github.project }}/edit/{{ site.github.branch }}/{{ page.path }}">edit this page</a>
+          <a class="post-edit--prose" href="http://prose.io/#{{ site.github.name }}/{{ site.github.project }}/edit/{{ site.github.branch }}/{{ page.path }}">Edit in Prose</a> or <a class="post-edit--github" href="https://github.com/{{ site.github.name }}/{{ site.github.project }}/edit/{{ site.github.branch }}/{{ page.path }}">Github</a>
         </div>
       {% endif %}
 

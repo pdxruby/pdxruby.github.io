@@ -30,6 +30,9 @@ function sourcePath(path) {
   return path
 }
 
-function createUrl(path, name, project, branch) {
+function githubCreateUrl(path, name, project, branch) {
+  return 'https://github.com/'+name+'/'+project+'/new/'+branch+'/?filename='+sourcePath(path)
+}
+function proseCreateUrl(path, name, project, branch) {
   return 'http://prose.io/#'+name+'/'+project+'/new/'+branch+'/'+sourcePath(path)
 }
