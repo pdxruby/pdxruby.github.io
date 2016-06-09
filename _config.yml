@@ -24,6 +24,23 @@ github:
 prose:
   relativeLinks: 'http://pdxruby.github.io/links.jsonp'
   media: 'img'
+  metadata:
+    "":
+      - name: permalink
+        field:
+          label: Permalink
+          element: "text"
+          help: override the default path
+      - name: redirect_from
+        field:
+          label: Redirect to
+          element: "text"
+          help: redirect from this path to the current page
+      - name: redirect_to
+        field:
+          label: Redirect from
+          element: "text"
+          help: redirect the current page to this URL
 # Build settings
 markdown: kramdown
 timezone: "America/Los_Angeles"
