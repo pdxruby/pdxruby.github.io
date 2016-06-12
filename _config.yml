@@ -33,12 +33,12 @@ prose:
           help: override the default path
       - name: redirect_from
         field:
-          label: Redirect to
+          label: Redirect from
           element: "text"
           help: redirect from this path to the current page
       - name: redirect_to
         field:
-          label: Redirect from
+          label: Redirect to
           element: "text"
           help: redirect the current page to this URL
 # Build settings
