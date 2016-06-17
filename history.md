@@ -30,9 +30,9 @@ Major events in the history of **pdxruby**:
 -   2003 - Moved meetings to SE Portland locations like [Lucky Lab](http://www.luckylab.com/) and [FreeGeek](http://www.freegeek.org/).
 -   2005/04/13 - [Lucas Carlson](http://rufy.com/) gives the first Rails talk at a joint meeting of pdxruby and [Portland Perl Mongers](http://pdx.pm.org/), \~50 people showed up.
 -   2005/08/03 - Had first [FOSCON](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/149384), a free Ruby-themed event for OSCON attendees. Visited by Matz, \_why, David Heinemeier Hansson, and Jim Weirich. Listen to [Why the Lucky Stiff and the Thirsty Cups](http://soundcloud.com/kcomandich/sets/why-the-lucky-stiff-and-the), live at FOSCON 2005.
--   2005/09 - Started the ["catherder" Rails app](https://github.com/pdxruby/pdxruby) to run pdxruby.org and publish the group's meetings and members. [Robby Russell, John Labovitz, Lennon Day-Reynolds, Caleb Phillips; later Eric Wilhelm, Ben Bleything, Thomas Lockney, etc]
+-   2005/09 - Started the ["catherder" Rails app](https://github.com/pdxruby/pdxruby) to run pdxruby.org and publish the group's meetings and members. [[Robby Russell](http://planetargon.com/who-we-are/robby-russell), John Labovitz, Lennon Day-Reynolds, Caleb Phillips; later Eric Wilhelm, Ben Bleything, Thomas Lockney, etc]
 -   2005/10 - Visited by [Derek Sivers](http://sivers.org/) of cdbaby and [Jeremy Kemper](http://bitsweat.net/) of the Ruby on Rails team.
--   2006/02 - Launched the “catherder” on Planet Argon's shared hosting.
+-   2006/02 - Launched the “catherder” on [Planet Argon](http://www.planetargon.com/)'s shared hosting.
 -   2006/07 - Started [DorkbotPDX](http://dorkbotpdx.org/) user group, people doing strange things with electricity. [Thomas Lockney]
 -   2006/07/26 - Had “FOSCON II: Ruby Rodeo”, with presentations by Jim Weirich, Amy Hoy, and others.
 -   2007/05 - Igal Koshevoy gives his first presentation, ["Scaling Rails"](http://koshevoy.com/presentations/scaling_rails_slides.pdf). About 65 people attended at pdxruby and BarCamp, many of whom were new to the group and began to participate regularly.
