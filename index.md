@@ -18,7 +18,7 @@ projects and enthusiasm for Ruby – join us!
 
 There are many ways to participate in **pdxruby**:
 
--   [Attend our meetings](http://calagator.org/events/search?tag=pdxruby):
+-   [Attend our meetings](http://calagator.org/events/search?query=pdxruby):
     we have a number of regular meetings that everyone is welcome to
     attend:
     -   **General meetings** for formal presentations, lightning talks
