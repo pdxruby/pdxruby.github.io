@@ -1,4 +1,4 @@
-Preview and contribute at https://pdxruby.github.io
+Visit the site and get involved at https://pdxruby.org
 
 ## History
 
