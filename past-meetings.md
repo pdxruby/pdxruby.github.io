@@ -4,6 +4,12 @@ title: Past Meetings
 
 ### Videos and Notes from past meetings
 
+### 2016
+
+-   July 2016 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HvnrLCSGE9Hp3TltIJhixoB), or one-by-one:
+    -   Dana Scheider: [Going Rambo: Contract and Collaboration Testing in Ruby](https://www.youtube.com/watch?v=unVJnnjOYzk)
+    -   Eric Drechsel: [Contributing to the new pdx.rb website](https://www.youtube.com/watch?v=nx7CJah_0ng)
+
 ### 2015
 
 -   September 2015 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HuB0Dpq2y80FtqjnDNG3vga), or one-by-one:
