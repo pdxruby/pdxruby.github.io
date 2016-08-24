@@ -22,6 +22,9 @@ A log for contributions and some expenses.
 |2015-10-05|\$45.75|\$67.35|Lumen Learning|Jesse Cooke|
 |2015-11-01|(\$45.75)|\$67.35|Meetup|Jesse Cooke <sup>[7)](#fn__7)</sup>|
 |2015-08-26|(\$89.94)|(\$22.59)|Meetup|Jesse Cooke|
+|2016-08-24|\$20.00|(\$2.59)|Sam Livingston-Gray|Jesse Cooke|
+|2016-08-24|\$20.00|\$17.41|Josh Tompkins|Jesse Cooke|
+|2016-08-26|(\$89.94)|(\$72.53)|Meetup|Jesse Cooke|
 
 <sup>[1)](#fnt__1)</sup> from 13th bday party
 
