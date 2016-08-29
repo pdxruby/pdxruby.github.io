@@ -6,6 +6,10 @@ title: Past Meetings
 
 ### 2016
 
+-   August 2016 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2Htu80wP8K5xIUAj4DWIm_fv), or one-by-one:
+    -   Lauren Voswinkel: [Nitty Gritty Service Building](https://www.youtube.com/watch?v=hNcTeRW7wBY)
+    -   Josh Tompkins: [Redux-Style One-Way Data Flow (In Ruby)](https://www.youtube.com/watch?v=RxXeVIi9aQ8)
+
 -   July 2016 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HvnrLCSGE9Hp3TltIJhixoB), or one-by-one:
     -   Dana Scheider: [Going Rambo: Contract and Collaboration Testing in Ruby](https://www.youtube.com/watch?v=unVJnnjOYzk)
     -   Eric Drechsel: [Contributing to the new pdx.rb website](https://www.youtube.com/watch?v=nx7CJah_0ng)
