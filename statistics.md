@@ -11,15 +11,12 @@ Approximate counts of total attendance, and number of women, taken by counting t
 
 |Date|Total|Female|
 |:---|:----|:-----|
-|[Sep 6, 2016](http://calagator.org/events/1250470641)
- At New Relic|56|7|
-|[Jun 7, 2016](http://calagator.org/events/1250469629)
- At Crowd Compass|56|11|
+|[Sep 6, 2016](http://calagator.org/events/1250470641) At New Relic|56|7|
+|[Jun 7, 2016](http://calagator.org/events/1250469629) At Crowd Compass|56|11|
 |[May 3, 2016](http://calagator.org/events/1250469628)|35|4|
 |[Apr 5, 2016](http://calagator.org/events/1250469627)|60|13|
 |[Mar 1, 2016](http://calagator.org/events/1250469533)|78|13|
-|[Feb 2, 2016](http://calagator.org/events/1250469356)
- Announcement made at startup week|107|21|
+|[Feb 2, 2016](http://calagator.org/events/1250469356) Announcement made at startup week|107|21|
 |[Jan 5, 2016](http://calagator.org/events/1250469355)|70|9|
 
 #### 2015
@@ -30,8 +27,7 @@ Approximate counts of total attendance, and number of women, taken by counting t
 |[Nov 3, 2015](http://calagator.org/events/1250468803)|75|12|
 |[Oct 6, 2015](http://calagator.org/events/1250468744)|74|10|
 |[Sept 1, 2015](http://calagator.org/events/1250468544)|94|23|
-|[Aug 4, 2015](http://calagator.org/events/1250468447)
- 13th anniversary party: Aaron Patterson, Godfrey Chan|138|16|
+|[Aug 4, 2015](http://calagator.org/events/1250468447) 13th anniversary party: Aaron Patterson, Godfrey Chan|138|16|
 |[July 7, 2015](http://calagator.org/events/1250468193)|84|18|
 |[June 2, 2015](http://calagator.org/events/1250468192)|86|17|
 |[May 5, 2015](http://calagator.org/events/1250467772)|85|17|
@@ -54,8 +50,7 @@ Approximate counts of total attendance, and number of women, taken by counting t
 |[May 6, 2014](http://calagator.org/events/1250465823)|83||
 |[April 1, 2014](http://calagator.org/events/1250465761)|82||
 |[March 4, 2014](http://calagator.org/events/1250465650)|71||
-|[February 4, 2014](http://calagator.org/events/1250465431)
- Yehuda Katz talking about Rust|107||
+|[February 4, 2014](http://calagator.org/events/1250465431) Yehuda Katz talking about Rust|107||
 |[January 7, 2014](http://calagator.org/events/1250465269)|67||
 
 #### 2013
