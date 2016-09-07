@@ -1,5 +1,6 @@
 ---
 title: Statistics
+published: true
 ---
 
 ### Meeting Attendance
@@ -10,6 +11,8 @@ Approximate counts of total attendance, and number of women, taken by counting t
 
 |Date|Total|Female|
 |:---|:----|:-----|
+|[Sep 6, 2016](http://calagator.org/events/1250470641)
+ At New Relic|56|7|
 |[Jun 7, 2016](http://calagator.org/events/1250469629)
  At Crowd Compass|56|11|
 |[May 3, 2016](http://calagator.org/events/1250469628)|35|4|
@@ -71,5 +74,3 @@ Approximate counts of total attendance, and number of women, taken by counting t
 |[March 5, 2013](http://calagator.org/events/1250463148)|||
 |[February 5, 2013](http://calagator.org/events/1250463147)|||
 |[January 8, 2013](http://calagator.org/events/1250463241)|||
-
-
