@@ -26,6 +26,10 @@ A log for contributions and some expenses.
 |2016-08-24|\$20.00|\$17.41|Josh Tompkins|Jesse Cooke|
 |2016-08-25|\$20.00|\$37.41|Chuck Vose|Jesse Cooke|
 |2016-08-26|(\$89.94)|(\$52.53)|Meetup|Jesse Cooke|
+|2016-09-06|\$40.00|\($12.53)|Chuck Vose|Jesse Cooke|
+|2016-09-06|\$40.00|\$27.47|Bryan Stearns|Jesse Cooke|
+|2016-09-06|\$20.00|\$47.47|Paul Baker|Jesse Cooke|
+|2016-09-06|\$20.00|\$67.47|Duane Moody|Jesse Cooke|
 
 <sup>[1)](#fnt__1)</sup> from 13th bday party
 
