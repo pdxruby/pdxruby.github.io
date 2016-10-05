@@ -9,17 +9,18 @@ Approximate counts of total attendance, and number of women, taken by counting t
 
 #### 2016
 
-|Date|Total|Female|
-|:---|:----|:-----|
-|[Sep 6, 2016](http://calagator.org/events/1250470641) At New Relic|56|7|
-|[Aug 2, 2016](http://calagator.org/events/1250470629)|||
-|[Jul 5, 2016](http://calagator.org/events/1250469630)|||
-|[Jun 7, 2016](http://calagator.org/events/1250469629) At Crowd Compass|56|11|
-|[May 3, 2016](http://calagator.org/events/1250469628)|35|4|
-|[Apr 5, 2016](http://calagator.org/events/1250469627)|60|13|
-|[Mar 1, 2016](http://calagator.org/events/1250469533)|78|13|
-|[Feb 2, 2016](http://calagator.org/events/1250469356) Announcement made at startup week|107|21|
-|[Jan 5, 2016](http://calagator.org/events/1250469355)|70|9|
+|Date|Total|Female|Youngling|
+|:---|:----|:-----|:--------|
+|[Oct 4, 2016](http://calagator.org/events/1250470883) At New Relic|40|4|1|
+|[Sep 6, 2016](http://calagator.org/events/1250470641) At New Relic|56|7|0|
+|[Aug 2, 2016](http://calagator.org/events/1250470629)||||
+|[Jul 5, 2016](http://calagator.org/events/1250469630)||||
+|[Jun 7, 2016](http://calagator.org/events/1250469629) At Crowd Compass|56|11||
+|[May 3, 2016](http://calagator.org/events/1250469628)|35|4||
+|[Apr 5, 2016](http://calagator.org/events/1250469627)|60|13||
+|[Mar 1, 2016](http://calagator.org/events/1250469533)|78|13||
+|[Feb 2, 2016](http://calagator.org/events/1250469356) Announcement made at startup week|107|21||
+|[Jan 5, 2016](http://calagator.org/events/1250469355)|70|9||
 
 #### 2015
 
