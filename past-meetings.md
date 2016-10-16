@@ -6,6 +6,15 @@ title: Past Meetings
 
 ### 2016
 
+-   October 2016 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HuiAWXa5lY_V5aDZa6qr4X6), or one-by-one:
+    -   Ryan Wise: [Breadth-first and A\* Search with the Ruby Standard Library](https://www.youtube.com/watch?v=Zp4SFxVsfNA)
+
+-   September 2016 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HuAhF4T0y3ZeHPQztSsRR3n), or one-by-one:
+    -   Brent Miller, Sam Livingston-Gray & Jesse Cooke: [Senior Rubyist Panel](https://www.youtube.com/watch?v=8CHt43o5Yr0)
+    -   Chuck Lauer Vose: [Concurrency in 5 minutes](https://www.youtube.com/watch?v=D5EoLrMVn28)
+    -   Jesse Cooke: [pdxruby contributions](https://www.youtube.com/watch?v=noD1wZ8nM2o)
+    -   Brian Shirai: [Rubinius](https://www.youtube.com/watch?v=5JihHI0wWgg)
+
 -   August 2016 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2Htu80wP8K5xIUAj4DWIm_fv), or one-by-one:
     -   Lauren Voswinkel: [Nitty Gritty Service Building](https://www.youtube.com/watch?v=hNcTeRW7wBY)
     -   Josh Tompkins: [Redux-Style One-Way Data Flow (In Ruby)](https://www.youtube.com/watch?v=RxXeVIi9aQ8)
