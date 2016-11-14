@@ -6,6 +6,9 @@ title: Past Meetings
 
 ### 2016
 
+-   November 2016 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2Htq_rfKUCHfXInaoY-Ati4F), or one-by-one:
+    -   Coraline Clark & Jason Clark: [Programming in the Small: Kids, Chickens, and Ruby](https://www.youtube.com/watch?v=61hg3n-72XQ)
+
 -   October 2016 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HuiAWXa5lY_V5aDZa6qr4X6), or one-by-one:
     -   Ryan Wise: [Breadth-first and A\* Search with the Ruby Standard Library](https://www.youtube.com/watch?v=Zp4SFxVsfNA)
 
