@@ -20,7 +20,7 @@ redirect_from: /CONDUCT
 1.‭ ‬Purpose
 ============
 
-A‭ ‬primary‭ ‬goal‭ ‬of‭ ‬the Portland Ruby Brigade (also known as pdxruby and pdx.rb) ‬is‭ ‬to‭ ‬be‭ ‬inclusive‭ ‬to‭ ‬the‭ ‬largest‭ ‬number‭ ‬of‭ ‬contributors,‭ ‬with‭ ‬the‭ ‬most‭ ‬varied‭ ‬and‭ ‬diverse‭ ‬backgrounds‭ ‬possible.‭ ‬As‭ ‬such,‭ ‬we‭ ‬are‭ ‬committed‭ ‬to‭ ‬providing‭ ‬a‭ ‬friendly,‭ ‬safe‭ ‬and‭ ‬welcoming‭ ‬environment‭ ‬for‭ ‬all,‭ ‬regardless‭ ‬of‭ ‬gender,‭ ‬sexual‭ ‬orientation,‭ ‬ability,‭ ‬ethnicity,‭ ‬socioeconomic‭ ‬status,‭ ‬and‭ ‬religion‭ (‬or‭ ‬lack‭ ‬thereof‭)‬.‭
+A‭ ‬primary‭ ‬goal‭ ‬of‭ ‬the Portland Ruby Brigade (also known as pdxruby and pdx.rb) ‬is‭ ‬to‭ ‬be‭ ‬inclusive‭ ‬to‭ ‬the‭ ‬largest‭ ‬number‭ ‬of‭ ‬contributors,‭ ‬with‭ ‬the‭ ‬most‭ ‬varied‭ ‬and‭ ‬diverse‭ ‬backgrounds‭ ‬possible.‭ ‬As‭ ‬such,‭ ‬we‭ ‬are‭ ‬committed‭ ‬to‭ ‬providing‭ ‬a‭ ‬friendly,‭ ‬safe‭ ‬and‭ ‬welcoming‭ ‬environment‭ ‬for‭ ‬all,‭ ‬regardless‭ ‬of‭ ‬gender,‭ gender identity, ‬sexual‭ ‬orientation,‭ ‬ability,‭ ‬ethnicity,‭ ‬socioeconomic‭ ‬status,‭ ‬and‭ ‬religion‭ (‬or‭ ‬lack‭ ‬thereof‭)‬.‭
 
 This‭ ‬code‭ ‬of‭ ‬conduct‭ ‬outlines‭ ‬our‭ ‬expectations‭ ‬for‭ ‬all‭ ‬those‭ ‬who‭ ‬participate‭ ‬in‭ ‬our‭ ‬community,‭ ‬as‭ ‬well‭ ‬as‭ ‬the‭ ‬consequences‭ ‬for‭ ‬unacceptable‭ ‬behavior.
 
@@ -61,7 +61,7 @@ Anyone‭ ‬asked‭ ‬to‭ ‬stop‭ ‬unacceptable‭ ‬behavior‭ ‬i
 6.‎ ‏If‭ ‬You‭ ‬Witness‭ ‬or‭ ‬Are‭ ‬Subject‭ ‬to‭ ‬Unacceptable‭ ‬Behavior
 ===========================================================================
 
-If‭ ‬you‭ ‬are‭ ‬subject‭ ‬to‭ ‬or‭ ‬witness‭ ‬unacceptable‭ ‬behavior,‭ ‬or‭ ‬have‭ ‬any‭ ‬other‭ ‬concerns,‭ ‬please‭ ‬notify‭ ‬a‭ ‬community‭ ‬organizer‭ ‬as‭ ‬soon‭ ‬as‭ ‬possible.‭ Audrey Eschright: spinnerin@gmail.com / (503) 741-9314
+If‭ ‬you‭ ‬are‭ ‬subject‭ ‬to‭ ‬or‭ ‬witness‭ ‬unacceptable‭ ‬behavior,‭ ‬or‭ ‬have‭ ‬any‭ ‬other‭ ‬concerns,‭ ‬please‭ ‬notify‭ ‬a‭ ‬community‭ ‬organizer‭ ‬as‭ ‬soon‭ ‬as‭ ‬possible.‭ Lauren Voswinkel: lvoswink@gmail.com / (862) 268-5503
 
 Additionally,‭ ‬community‭ ‬organizers‭ ‬are‭ ‬available‭ ‬to‭ ‬help‭ ‬community‭ ‬members‭ ‬engage‭ ‬with‭ ‬local‭ ‬law‭ ‬enforcement‭ ‬or‭ ‬to‭ ‬otherwise‭ ‬help‭ ‬those‭ ‬experiencing‭ ‬unacceptable‭ ‬behavior‭ ‬feel‭ ‬safe.‭ ‬In‭ ‬the‭ ‬context‭ ‬of‭ ‬in-person‭ ‬events,‭ ‬organizers‭ ‬will‭ ‬also‭ ‬provide‭ ‬escorts‭ ‬as‭ ‬desired‭ ‬by‭ ‬the‭ ‬person‭ ‬experiencing‭ ‬distress.
 
@@ -78,7 +78,7 @@ We‭ ‬expect‭ ‬all‭ ‬community‭ ‬participants‭ (‬contributors
 9.‎ ‏Contact‭ ‬info
 ===================
 
-‎Audrey Eschright, safety@lifeofaudrey.com / (503) 741-9314
+‎Lauren Voswinkel, lvoswink@gmail.com / (862) 268-5503
 
 10.‎ ‏License‭ ‬and‭ ‬attribution
 =================================
