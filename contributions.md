@@ -32,3 +32,4 @@ A log for contributions and some expenses.
 | 2017/02/26 | $89.94         |                   | -$22.47   | Meetup              |
 | 2017/03/10 |                | $20.00            | -$2.47    | Sam LG              |
 | 2017/03/10 |                | $2.47             | $0.00     | Jesse Cooke         |
+| 2017/03/10 |                | $89.94            | $89.94    | [Sidekiq](http://sidekiq.org/)         |
