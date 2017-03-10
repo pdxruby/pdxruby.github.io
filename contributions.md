@@ -30,3 +30,4 @@ A log for contributions and some expenses.
 | 2016/09/06 |                | $20.00            | $47.47    | Paul Baker          |
 | 2016/09/06 |                | $20.00            | $67.47    | Duane Moody         |
 | 2017/02/26 | $89.94         |                   | -$22.47   | Meetup              |
+| 2017/03/10 |                | $20.00            | -$2.47    | Sam LG              |
