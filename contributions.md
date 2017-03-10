@@ -29,3 +29,4 @@ A log for contributions and some expenses.
 | 2016/09/06 |                | $40.00            | $27.47    | Bryan Stearns       |
 | 2016/09/06 |                | $20.00            | $47.47    | Paul Baker          |
 | 2016/09/06 |                | $20.00            | $67.47    | Duane Moody         |
+| 2017/02/26 | $89.94         |                   | -$22.47   | Meetup              |
