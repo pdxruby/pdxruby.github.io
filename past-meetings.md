@@ -4,6 +4,16 @@ title: Past Meetings
 
 ### Videos and Notes from past meetings
 
+### 2017
+
+-   March 2017 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HtxUhJDNQxPE6LtdCpve0cg), or one-by-one:
+    -   Jason Clark: [Marshal, Marshal, Marshal](https://www.youtube.com/watch?v=KztXnR7HlYk)
+    -   Maureen Dugan: [Mob Programming](https://www.youtube.com/watch?v=JgGLpBo8IdE)
+    -   Kenichi Nakamura: [HTTP/2](https://www.youtube.com/watch?v=STNs8w7D6go)
+
+-   January 2017 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HsUIEznF3ZITQUTpCXBlQiw), or one-by-one:
+    -   Lance Ivy: [Trust Issues: Application Security with JSON Web Tokens](https://www.youtube.com/watch?v=hPxIIVa19oA)
+
 ### 2016
 
 -   November 2016 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2Htq_rfKUCHfXInaoY-Ati4F), or one-by-one:
