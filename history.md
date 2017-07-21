@@ -84,5 +84,6 @@ Major events in the history of **pdxruby**:
 -   2014/06 - Had sixth Open Source Bridge conference.
 -   2015/06 - Had seventh Open Source Bridge conference.
 -   2015/08 - 13th year anniversary party! [Aaron Patterson](http://twitter.com/tenderlove) and [Godfrey Chan](http://twitter.com/chancancode) speak.
+-   2016/09 - Lauren Voswinkel starts us off with code retreat-style "Game of Life" exercises!
 -   …and soon much more!
 
