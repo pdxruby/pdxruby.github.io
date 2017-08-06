@@ -6,6 +6,12 @@ title: Past Meetings
 
 ### 2017
 
+-   August 2017 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HtXdSQUaB7ncHYvEuzNf5Ej), or one-by-one:
+    -   Coraline Ada Ehmke: [Metaphors are Similes. Similes Are Like Metaphors](https://www.youtube.com/watch?v=SpXGVyI0IJg)
+-   May 2017 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2Hv42dx6-N-v63imUVgVpZbD), or one-by-one:
+    -   Dana Scheider: [A Beginner's Guide To Open Source](https://www.youtube.com/watch?v=Y56-rVG1PDg)
+-   April 2017 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2Hu1f_8RiuU7sofDQj_cwTH9), or one-by-one:
+    -   Tim Wade: [What We Talk About When We Talk About Unit Testing](https://www.youtube.com/watch?v=Pb8THg0-lo8)
 -   March 2017 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HtxUhJDNQxPE6LtdCpve0cg), or one-by-one:
     -   Jason Clark: [Marshal, Marshal, Marshal](https://www.youtube.com/watch?v=KztXnR7HlYk)
     -   Maureen Dugan: [Mob Programming](https://www.youtube.com/watch?v=JgGLpBo8IdE)
