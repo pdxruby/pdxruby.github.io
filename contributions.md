@@ -33,3 +33,4 @@ A log for contributions and some expenses.
 | 2017/03/10 |                | $20.00            | -$2.47    | Sam LG                              |
 | 2017/03/10 |                | $2.47             | $0.00     | Jesse Cooke                         |
 | 2017/03/10 |                | $89.94            | $89.94    | [Sidekiq](http://sidekiq.org/)      |
+| 2017/07/21 |                | $13.37            | $103.31   | Rico Jones                          |
