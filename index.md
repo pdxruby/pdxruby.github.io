@@ -18,21 +18,12 @@ projects and enthusiasm for Ruby – join us!
 
 There are many ways to participate in **pdxruby**:
 
--   [Attend our meetings](http://calagator.org/events/search?query=pdxruby):
-    we have a number of regular meetings that everyone is welcome to
-    attend:
-    -   **General meetings** for formal presentations, lightning talks
-        and group discussions on topics of interest to those working
-        with Ruby. Meetings are usually the first Tuesday of the month,
-        “Ruby Tuesday”. Let us know if you're interested in
-        [presenting](/present).
-    -   **Beginner's meetings** for one-on-one help. Programmers with
-        any level of Ruby experience are welcome at these so they can
-        get and offer help at these. Meetings are every week except the
-        first week. As of 2014, this has been spun off into it's [own group](http://hackandhelp.com/).
-    -   **Lunch meetings** to hang out and eat lunch with your fellow
-        Ruby enthusiasts. Meetings are usually the last Wednesday of the
-        month.
+-   [Attend our General meetings](http://calagator.org/events/search?query=pdxruby)
+    for formal presentations, lightning talks
+    and group discussions on topics of interest to those working
+    with Ruby. Meetings are usually the first Tuesday of the month,
+    “Ruby Tuesday”. Let us know if you're interested in
+    [presenting](/present).
 -   [Give a presentation](/present) at one our our monthly
     meetings and share something you've learned in the world of Ruby
     with the group. You can also [suggest a presentation](/suggested-presentations) if
@@ -42,7 +33,7 @@ There are many ways to participate in **pdxruby**:
     to receive meeting announcements and notes, get suggestions of
     interesting events, and participate in technical discussions. You
     may post information about Ruby-related jobs and gigs near Portland
-    if you follow the [job posting guidelines](/job_guidelines "job guidelines").
+    if you follow the [job posting guidelines](/job-guidelines "job guidelines").
 -   [Subscribe to our beginner's mailing list: "pdxruby-beginners"](http://groups.google.com/group/pdxruby-beginners)
     to discuss topics of interest to those new to Ruby or programming.
     This is a super friendly list that wants to help you learn and share
