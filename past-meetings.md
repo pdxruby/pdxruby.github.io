@@ -4,7 +4,23 @@ title: Past Meetings
 
 ### Videos and Notes from past meetings
 
+### 2018
+
+-   February 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2Hs6mHfz-C5fwVnWvlKm2JE2), or one-by-one:
+    - Rico Jones - [Rico <3 .xls](https://www.youtube.com/edit?o=U&video_id=mmqDvlldrMk)
+    - Moof Mayeda - [Beautiful Data](https://www.youtube.com/edit?o=U&video_id=VZUr5-SSXLA)
+    - Janik Knittle - [Escape From MechE](https://www.youtube.com/edit?o=U&video_id=jSFHVVVgRbI)
+    - Arafat Mohamed - [20 Years Later](https://www.youtube.com/edit?o=U&video_id=B3bXk2yUohg)
+    - Dustin Brown - [Career Switch!](https://www.youtube.com/edit?o=U&video_id=PA4cvMYs12c)
+
 ### 2017
+
+-   November 2017 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2Hu8Lm-oYoAjHy1p0Nae8H5r), or one-by-one:
+    - Randy Shoup: [When to Move to Microservices](https://www.youtube.com/edit?o=U&video_id=VkZLiMOK3mM)
+    - Dana Scheider: [Executive Dysfunction And You](https://www.youtube.com/edit?o=U&video_id=MMhGBGABb5g)
+    
+-   September 2017 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2Huf-wqetkDM8p0MRTaLFj6t), or one-by-one:
+    - Bryan Goss: [Testing from the Outside In: Why and How to Test Code](https://www.youtube.com/edit?o=U&video_id=PDBMcERj6e4)
 
 -   August 2017 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HtXdSQUaB7ncHYvEuzNf5Ej), or one-by-one:
     -   Coraline Ada Ehmke: [Metaphors are Similes. Similes Are Like Metaphors](https://www.youtube.com/watch?v=SpXGVyI0IJg)
