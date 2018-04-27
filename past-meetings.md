@@ -6,6 +6,15 @@ title: Past Meetings
 
 ### 2018
 
+- April 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HtHXWHtKvuCw6pjUvIa2CCk), or one-by-one:
+    - Megan Bigelow - [How perl changed my life](https://youtu.be/nhHaH3pugWI)
+    - Panel Discussion - [#talkpay](https://youtu.be/n3sEY_QSjEU)
+      - Robert Peterson (CitrusByte)
+      - Davy Stevenson (Fastly)
+      - Tim Loudon (Loudon & Company)
+      - Lauren Voswinkel (New Relic)
+      - Brent Miller (New Relic)
+
 - February 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2Hs6mHfz-C5fwVnWvlKm2JE2), or one-by-one:
     - Rico Jones - [Rico <3 .xls](https://www.youtube.com/watch?v=mmqDvlldrMk)
     - Moof Mayeda - [Beautiful Data](https://www.youtube.com/watch?v=VZUr5-SSXLA)
