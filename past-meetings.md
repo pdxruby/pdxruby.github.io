@@ -6,6 +6,10 @@ title: Past Meetings
 
 ### 2018
 
+- May 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HsqIBwYf2SwOqxdtGqdz90U), or one-by-one:
+    - Jared White - [Rails 5 + Yarn + Webpack + Stimulus](https://youtu.be/tMLOK6__5Rs)
+    - Chris Krailo - [Managing yourself, your boss, and others](https://youtu.be/l30CyUR4K5Q)
+
 - April 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HtHXWHtKvuCw6pjUvIa2CCk), or one-by-one:
     - Megan Bigelow - [How perl changed my life](https://youtu.be/nhHaH3pugWI)
     - Panel Discussion - [#talkpay](https://youtu.be/n3sEY_QSjEU)
