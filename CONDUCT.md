@@ -83,4 +83,4 @@ We‭ ‬expect‭ ‬all‭ ‬community‭ ‬participants‭ (‬contributors
 10.‎ ‏License‭ ‬and‭ ‬attribution
 =================================
 
-This‭ ‬Code‭ ‬of‭ ‬Conduct‭ ‬is‭ ‬distributed‭ ‬under‭ ‬a‭ ‬Creative‭ ‬Commons‭ ‬Attribution-ShareAlike‭ ‬license.
+This‭ ‬Code‭ ‬of‭ ‬Conduct‭ ‬is‭ ‬distributed‭ ‬under‭ ‬a‭ ‬Creative‭ ‬Commons‭ ‬Attribution-ShareAlike‭ ‬license. The policy is derived from the [Citizen Code of Conduct](http://citizencodeofconduct.org) created by [Stumptown Syndicate](http://stumptownsyndicate.org).
