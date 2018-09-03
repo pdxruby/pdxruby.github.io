@@ -39,3 +39,4 @@ A log for contributions and some expenses.
 | 2018/03/05 |                | $89.94            | $13.37    | [Sidekiq](http://sidekiq.org/)      |
 | 2018/08/25 | $89.94         |                   | -$76.57   | Meetup                              |
 | 2018/09/03 |                | $40.00            | -$36.57   | Rico Jones                          |
+| 2018/09/03 |                | $89.94            | $53.37    | [Sidekiq](http://sidekiq.org/)      |
