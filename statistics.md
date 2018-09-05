@@ -7,10 +7,11 @@ published: true
 
 Approximate counts of total attendance, and number of women, taken by counting the crowd.
 
-#### 2017
+#### 2017/2018
 
 |Date|Total|Female|Youngling|
 |:---|:----|:-----|:--------|
+|[Sep 4, 2018](http://calagator.org/events/1250474203) At New Relic|24|8|2|
 |[Aug 1, 2017](http://calagator.org/events/1250472238) At New Relic|81|13|1|
 |[Jan 3, 2017](http://calagator.org/events/1250471220) At New Relic|48|6|0|
 
