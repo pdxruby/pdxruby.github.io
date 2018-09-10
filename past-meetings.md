@@ -6,6 +6,11 @@ title: Past Meetings
 
 ### 2018
 
+- September 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HtBStCZI0UgNKyAgJoyB57o), or one-by-one:
+    - Dustin Zeisler - [Visualize Ruby](https://youtu.be/8mshixepoGs)
+    - Brent Miller - [Rails Custom Configuration](https://youtu.be/FyXXlb_mdTA)
+    - Chuck Lauer Vose - [Decision Points vs Decision Logic](https://youtu.be/2Y5k_AetPL4)
+
 - May 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HsqIBwYf2SwOqxdtGqdz90U), or one-by-one:
     - Jared White - [Rails 5 + Yarn + Webpack + Stimulus](https://youtu.be/tMLOK6__5Rs)
     - Chris Krailo - [Managing yourself, your boss, and others](https://youtu.be/l30CyUR4K5Q)
