@@ -40,4 +40,5 @@ A log for contributions and some expenses.
 | 2018/08/25 | $89.94         |                   | -$76.57   | Meetup                              |
 | 2018/09/03 |                | $40.00            | -$36.57   | Rico Jones                          |
 | 2018/09/03 |                | $89.94            | $53.37    | [Sidekiq](http://sidekiq.org/)      |
-| 2018/09/04 |                | $20.00            | $73.37    | Dustin Brown
+| 2018/09/04 |                | $20.00            | $73.37    | Dustin Brown                        |
+| 2018/09/11 |                | $20.00            | $93.37    | Gerald Hilts                        |
