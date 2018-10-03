@@ -6,6 +6,10 @@ title: Past Meetings
 
 ### 2018
 
+- October 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HvGIO-aTD_sSqIUlg7ZFyhX), or one-by-one:
+    - Maggie Dreyer - [Jruby at Puppet](https://youtu.be/LLa8jcW-dIQ)
+    - Jason Dinsmore - [Who? What? When?](https://youtu.be/z8YqqiWgw0U)
+
 - September 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HtBStCZI0UgNKyAgJoyB57o), or one-by-one:
     - Dustin Zeisler - [Visualize Ruby](https://youtu.be/8mshixepoGs)
     - Brent Miller - [Rails Custom Configuration](https://youtu.be/FyXXlb_mdTA)
