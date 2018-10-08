@@ -15,6 +15,11 @@ title: Past Meetings
     - Brent Miller - [Rails Custom Configuration](https://youtu.be/FyXXlb_mdTA)
     - Chuck Lauer Vose - [Decision Points vs Decision Logic](https://youtu.be/2Y5k_AetPL4)
 
+- June 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HtKn_At07s0hW6ewQ8qNYo_), or one-by-one:
+    - Dana Scheider - [InView](https://youtu.be/gDYf6DgnUbo)
+    - Andrew Accuardi - [300 Hours of Elixir](https://youtu.be/epJZvS607-U)
+    - Brian Shirai - [Microservices](https://youtu.be/ksLP8zieZcM)
+
 - May 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HsqIBwYf2SwOqxdtGqdz90U), or one-by-one:
     - Jared White - [Rails 5 + Yarn + Webpack + Stimulus](https://youtu.be/tMLOK6__5Rs)
     - Chris Krailo - [Managing yourself, your boss, and others](https://youtu.be/l30CyUR4K5Q)
