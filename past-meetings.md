@@ -5,6 +5,10 @@ title: Past Meetings
 ### Videos and Notes from past meetings
 
 ### 2018
+- November 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HvbJKR2De_LuHc46l8-jD-B), or one-by-one:
+    - Chuck Lauer Vose - [Splitting Things Up - Separating I/O Edition](https://youtu.be/5Hd9Uylv7_M)
+    - Audrey Eschright - [Calagator](https://youtu.be/vP8CFOSnVHs)
+    - Dustin Brown - [Asking the Right Question](https://youtu.be/-kb5kN4RaDY)
 
 - October 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HvGIO-aTD_sSqIUlg7ZFyhX), or one-by-one:
     - Maggie Dreyer - [JRuby at Puppet](https://youtu.be/LLa8jcW-dIQ)
