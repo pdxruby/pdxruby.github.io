@@ -1,21 +1,15 @@
----
-title: Code of Conduct
-permalink: /codeofconduct
-redirect_from: /CONDUCT
----
-
 ### Table of Contents
 
--   [1.‭ ‬Purpose](#‭_‬purpose)
--   [2.‎ ‏Open‭ [‬Source/Culture/Tech‭] ‬Citizenship](#open‭_‬source_culture_tech‭_‬citizenship)
--   [3.‎ ‏Expected‭ ‬Behavior](#expected‭_‬behavior)
--   [4.‎ ‏Unacceptable‭ ‬Behavior](#unacceptable‭_‬behavior)
--   [5.‎ ‏Consequences‭ ‬of‭ ‬Unacceptable‭ ‬Behavior](#consequences‭_‬of‭_‬unacceptable‭_‬behavior)
--   [6.‎ ‏If‭ ‬You‭ ‬Witness‭ ‬or‭ ‬Are‭ ‬Subject‭ ‬to‭ ‬Unacceptable‭ ‬Behavior](#if‭_‬you‭_‬witness‭_‬or‭_‬are‭_‬subject‭_‬to‭_‬unacceptable‭_‬behavior)
--   [7.‎ ‏Addressing‭ ‬Grievances](#addressing‭_‬grievances)
--   [8.‎ ‏Scope](#scope)
--   [9.‎ ‏Contact‭ ‬info](#contact‭_‬info)
--   [10.‎ ‏License‭ ‬and‭ ‬attribution](#license‭_‬and‭_‬attribution)
+-   [1.‭ ‬Purpose](#1-purpose)
+-   [2.‎ ‏Open‭ [‬Source/Culture/Tech‭] ‬Citizenship](#2-open-source-x2f-culture-x2f-tech-citizenship)
+-   [3.‎ ‏Expected‭ ‬Behavior](#3-expected-behavior)
+-   [4.‎ ‏Unacceptable‭ ‬Behavior](#4-unacceptable-behavior)
+-   [5.‎ ‏Consequences‭ ‬of‭ ‬Unacceptable‭ ‬Behavior](#5-consequences-of-unacceptable-behavior)
+-   [6.‎ ‏If‭ ‬You‭ ‬Witness‭ ‬or‭ ‬Are‭ ‬Subject‭ ‬to‭ ‬Unacceptable‭ ‬Behavior](#6-if-you-witness-or-are-subject-to-unacceptable-behavior)
+-   [7.‎ ‏Addressing‭ ‬Grievances](#7-addressing-grievances)
+-   [8.‎ ‏Scope](#8-scope)
+-   [9.‎ ‏Contact‭ ‬info](#9-contact-info)
+-   [10.‎ ‏License‭ ‬and‭ ‬attribution](#10-license-and-attribution)
 
 1.‭ ‬Purpose
 ============
