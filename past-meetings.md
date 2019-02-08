@@ -4,6 +4,12 @@ title: Past Meetings
 
 ### Videos and Notes from past meetings
 
+### 2019
+
+- February 2019 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HsuZD8fNRDwF2imUMXdQUpc), or one-by-one:
+    - Jerry Hilts - [Elm: What, Why, & a little Bit of How](https://youtu.be/GxHzqoKOgiE)
+    - Seth de l'Isle - [Unmuni](https://youtu.be/gxEuXb6es-w)
+
 ### 2018
 - November 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HvbJKR2De_LuHc46l8-jD-B), or one-by-one:
     - Chuck Lauer Vose - [Splitting Things Up - Separating I/O Edition](https://youtu.be/5Hd9Uylv7_M)
