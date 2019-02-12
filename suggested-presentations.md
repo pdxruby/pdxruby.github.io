@@ -9,7 +9,7 @@ title: Suggested Presentations
 #### Lightning Talks
 
 - RSpec Tips and Tricks
-- Procs and Lambdas - "What the Proc?"
+- Mastering Procs and Lambdas
 - Mastering Blocks and Iterators
 - Deployment Methods: Github Hooks, Capistrano, etc.
 - Nginx configuration Tips
@@ -19,15 +19,15 @@ title: Suggested Presentations
 - Serverless Ruby - Getting Started and Use Cases
 - GraphQL - When and How to use this technology
 - React and Rails - Teaming up with Javascript Engineers
-- Ruby for Kids
+- Ruby for Kids - Lesson Plan for Teaching Programming
 
 #### Deep Dives
 
-- Domain Modeling - "Naming Things is Hard"
+- Domain Modeling - Domain Driven Design
 - Cloud Architectures - Microservices, Monoliths and Hybrids
-- Agile Project Managment in Practice - SCRUM & Kanban
+- Agile Project Management in Practice - SCRUM & Kanban
 - Complex Model Interactions - ActiveInteraction
-- Code Refactoring
+- Code Refactoring - Techniques, Trials and Tribulations
 - Machine Learning - Getting Started and Use Cases
 - Data Pipelines - How to Process a Data Stream
 
