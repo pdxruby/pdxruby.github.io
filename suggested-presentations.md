@@ -4,6 +4,34 @@ title: Suggested Presentations
 
 ## Suggested Presentations
 
+### 2019
+
+#### Lightning Talks
+
+- RSpec Tips and Tricks
+- Procs and Lambdas - "What the Proc?"
+- Mastering Blocks and Iterators
+- Deployment Methods: Github Hooks, Capistrano, etc.
+- Nginx configuration Tips
+
+#### Talk Ideas
+
+- Serverless Ruby - Getting Started and Use Cases
+- GraphQL - When and How to use this technology
+- React and Rails - Teaming up with Javascript Engineers
+- Ruby for Kids
+
+#### Deep Dives
+
+- Domain Modeling - "Naming Things is Hard"
+- Cloud Architectures - Microservices, Monoliths and Hybrids
+- Agile Project Managment in Practice - SCRUM & Kanban
+- Complex Model Interactions - ActiveInteraction
+- Code Refactoring
+- Machine Learning - Getting Started and Use Cases
+- Data Pipelines - How to Process a Data Stream
+
+#### Legacy
 -   Using Tricks I Learned From Ruby Hangman In Production Systems
     (subject to relevant statutes of limitations)
 -   Object oriented design
@@ -25,4 +53,3 @@ title: Suggested Presentations
 ### Suggested Speakers
 
 -   You?
-
