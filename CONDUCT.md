@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [1. Purpose](#1-purpose)
-- [2. Open Source|Culture|Tech Citizenship](#2-open-sourceculturetech-citizenship)
+- [2. Open Source/Culture/Tech Citizenship](#2-open-sourceculturetech-citizenship)
 - [3. Expected Behavior](#3-expected-behavior)
 - [4. Unacceptable Behavior](#4-unacceptable-behavior)
 - [5. Consequences of Unacceptable Behavior](#5-consequences-of-unacceptable-behavior)
@@ -21,7 +21,7 @@ This code of conduct outlines our expectations for all those who participate in 
 
 We invite all those who participate in pdx.rb to help us create safe and positive experiences for everyone.
 
-## 2. Open Source|Culture|Tech Citizenship
+## 2. Open Source/Culture/Tech Citizenship
 
 A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
