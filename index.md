@@ -48,7 +48,7 @@ There are many ways to participate in **pdxruby**:
 -   [Chat with us on IRC: "\#pdxruby"](irc://irc.freenode.net/#pdxruby)
 -   [Chat with us on Slack](https://pdxruby-slack.herokuapp.com/)
 -   [Watch videos of past meetings on YouTube](https://www.youtube.com/channel/UCgEEluMvb1Fp3FExqh-YZmw)
--   [Follow our Code of Conduct](/codeofconduct)
+-   [Follow our Code of Conduct](/CONDUCT)
 -   Edit this page! (See also: [the wiki joke](/wikijoke))
 
 ### Learn about Ruby and programming
