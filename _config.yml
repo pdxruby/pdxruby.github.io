@@ -11,7 +11,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Also known as pdxruby and pdx.rb, is a user group for Ruby programmers in the Portland, Oregon area.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://pdxruby.org" # the base hostname & protocol for your site
+url: "https://pdxruby.org" # the base hostname & protocol for your site
 # drop the extension when generating permalinks, for redirect_from and indexes
 permalink: "/:categories/:year/:month/:day"
 twitter_username: pdxruby
@@ -51,6 +51,6 @@ defaults:
     values:
       layout: "default"
 
-gems:
+plugins:
   - jekyll-gist
   - jekyll-redirect-from
