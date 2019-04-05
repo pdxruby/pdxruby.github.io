@@ -6,6 +6,10 @@ title: Past Meetings
 
 ### 2019
 
+- April 2019 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HsEtNtxv64i0B5khVfJEmRW), or one-by-one:
+    - Jared Moody - [Recyclable Cache Keys in Rails](https://youtu.be/ghN6rdxqdoM)
+    - Mike Calhoun - [How Do We Handle Errors?](https://youtu.be/phM_73b6kJE)
+
 - February 2019 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HsuZD8fNRDwF2imUMXdQUpc), or one-by-one:
     - Jerry Hilts - [Elm: What, Why, & a little Bit of How](https://youtu.be/GxHzqoKOgiE)
     - Seth de l'Isle - [Unmuni](https://youtu.be/gxEuXb6es-w)
