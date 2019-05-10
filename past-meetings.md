@@ -5,6 +5,9 @@ title: Past Meetings
 ### Videos and Notes from past meetings
 
 ### 2019
+- May 2019 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HvepMcTJqSXhYQmTNp1nA9f), or one-by-one:
+    - Philip Brocoum - [Syncta: Job Opportunity](https://youtu.be/twZOE3qH4Qc)
+    - Ethan - [Scorpio: Consuming web APIs without hating it quite so much ](https://youtu.be/dN23gDA0ATE)
 
 - April 2019 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HsEtNtxv64i0B5khVfJEmRW), or one-by-one:
     - Jared Moody - [Recyclable Cache Keys in Rails](https://youtu.be/ghN6rdxqdoM)
