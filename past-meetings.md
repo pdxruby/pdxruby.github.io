@@ -5,6 +5,9 @@ title: Past Meetings
 ### Videos and Notes from past meetings
 
 ### 2019
+- June 2019 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HunuQ0hwF3_xRzmFErNrmXu), or one-by-one:
+    - Sam Livingston-Gray - [F̶l̶u̶e̶n̶t̶ Refactoring](https://youtu.be/v3vflogQCLc)
+
 - May 2019 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HvepMcTJqSXhYQmTNp1nA9f), or one-by-one:
     - Philip Brocoum - [Syncta: Job Opportunity](https://youtu.be/twZOE3qH4Qc)
     - Ethan - [Scorpio: Consuming web APIs without hating it quite so much ](https://youtu.be/dN23gDA0ATE)
