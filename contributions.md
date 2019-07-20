@@ -43,3 +43,4 @@ A log for contributions and some expenses.
 | 2018/09/04 |                | $20.00            | $73.37    | Dustin Brown                        |
 | 2018/09/11 |                | $20.00            | $93.37    | Gerald Hilts                        |
 | 2019/02/25 | $89.94         |                   | $3.43     | Meetup                              |
+| 2019/07/10 | $34.00         |                   | -$30.57   | Gandi DNS renewals                  |
