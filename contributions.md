@@ -44,3 +44,4 @@ A log for contributions and some expenses.
 | 2018/09/11 |                | $20.00            | $93.37    | Gerald Hilts                        |
 | 2019/02/25 | $89.94         |                   | $3.43     | Meetup                              |
 | 2019/07/10 | $34.00         |                   | -$30.57   | Gandi DNS renewals                  |
+| 2019/08/23 | $98.94         |                   | -$129.51  | Meetup                              |
