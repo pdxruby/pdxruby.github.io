@@ -5,6 +5,12 @@ title: Past Meetings
 ### Videos and Notes from past meetings
 
 ### 2019
+
+- October 2019 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HvjSSEIclgQDmzbnQTdvSkH), or one-by-one:
+    - Jared White - [What's New in Rails 6](https://youtu.be/WXdtAc_B9L4)
+    - Jason Dinsmore - [10 New Things in Active Record](https://youtu.be/VhjXeCoz3eU)
+    - Wilfrid Landry - [Action Mailbox](https://youtu.be/f0L53nHXEG0)
+
 - June 2019 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HunuQ0hwF3_xRzmFErNrmXu), or one-by-one:
     - Sam Livingston-Gray - [F̶l̶u̶e̶n̶t̶ Refactoring](https://youtu.be/v3vflogQCLc)
 
