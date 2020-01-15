@@ -4,6 +4,12 @@ title: Past Meetings
 
 ### Videos and Notes from past meetings
 
+### 2020
+
+- January 2020 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HswVqK6Vcj41D6X3FcEjDSI), or one-by-one:
+    - Sona Beilavara - [Why dry?](https://youtu.be/4DRxCgySPpI)
+    - Jonan Scheffler - [The Ruby Software Foundation](https://youtu.be/LHHoZAdAwZg)
+
 ### 2019
 
 - October 2019 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HvjSSEIclgQDmzbnQTdvSkH), or one-by-one:
@@ -27,6 +33,7 @@ title: Past Meetings
     - Seth de l'Isle - [Unmuni](https://youtu.be/gxEuXb6es-w)
 
 ### 2018
+
 - November 2018 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HvbJKR2De_LuHc46l8-jD-B), or one-by-one:
     - Chuck Lauer Vose - [Splitting Things Up - Separating I/O Edition](https://youtu.be/5Hd9Uylv7_M)
     - Audrey Eschright - [Calagator](https://youtu.be/vP8CFOSnVHs)
