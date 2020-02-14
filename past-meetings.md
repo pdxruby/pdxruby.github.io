@@ -6,6 +6,10 @@ title: Past Meetings
 
 ### 2020
 
+- February 2020 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HuIn-o6QTp9IjESGeIsxDgk), or one-by-one:
+    - Scott Hanselman - [Personal Productivity](https://youtu.be/RpH6IPhyh7I)
+    - Jonan Scheffler - [The State of Ruby](https://youtu.be/1wmrmM8HZ8k)
+
 - January 2020 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HswVqK6Vcj41D6X3FcEjDSI), or one-by-one:
     - Sona Beilavara - [Why dry?](https://youtu.be/4DRxCgySPpI)
     - Jonan Scheffler - [The Ruby Software Foundation](https://youtu.be/LHHoZAdAwZg)
