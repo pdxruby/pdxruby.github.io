@@ -47,3 +47,4 @@ A log for contributions and some expenses.
 | 2019/08/23 | $98.94         |                   | -$129.51  | Meetup                              |
 | 2019/08/31 |                | $129.51           | $0.00     | [Sidekiq](http://sidekiq.org/)      |
 | 2020/02/25 | $98.94         |                   | -$98.94   | Meetup                              |
+| 2019/03/03 |                | $98.94            | $0.00     | [TimescaleDB](https://www.timescale.com)      |
