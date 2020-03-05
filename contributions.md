@@ -45,4 +45,4 @@ A log for contributions and some expenses.
 | 2019/02/25 | $89.94         |                   | $3.43     | Meetup                              |
 | 2019/07/10 | $34.00         |                   | -$30.57   | Gandi DNS renewals                  |
 | 2019/08/23 | $98.94         |                   | -$129.51  | Meetup                              |
-| 2018/08/31 |                | $129.51           | $0.00     | [Sidekiq](http://sidekiq.org/)      |
+| 2019/08/31 |                | $129.51           | $0.00     | [Sidekiq](http://sidekiq.org/)      |
