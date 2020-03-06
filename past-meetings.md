@@ -6,6 +6,9 @@ title: Past Meetings
 
 ### 2020
 
+- March 2020 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HvDXMLdDU-3iDM00M8a-hsA), or one-by-one:
+    - Getty Ritter & Trevor Elliott - [Sorbet: Practical Gradual Type-Checking For Ruby](https://youtu.be/GVe3yv35__4)
+
 - February 2020 meeting videos [in playlist format](https://www.youtube.com/playlist?list=PLw_tewW7y2HuIn-o6QTp9IjESGeIsxDgk), or one-by-one:
     - Scott Hanselman - [Personal Productivity](https://youtu.be/RpH6IPhyh7I)
     - Jonan Scheffler - [The State of Ruby](https://youtu.be/1wmrmM8HZ8k)
