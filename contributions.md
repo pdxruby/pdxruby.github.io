@@ -52,3 +52,4 @@ A log for contributions and some expenses.
 | 2019/03/29 |                | $86.00            | $0.00     | [Sidekiq](https://sidekiq.org/)                           |
 | 2020/07/25 | $34.00         |                   | -$34.00   | Gandi DNS renewals                                        |
 | 2020/07/25 |                | $34.00            | $0.00     | [Relative Path](https://relativepath.io/) c/o Jesse Cooke |
+| 2020/08/23 | $98.94         |                   | -$98.94   | Meetup
