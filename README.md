@@ -1,3 +1,5 @@
+# Portland Ruby Brigage
+
 Visit the site and get involved at https://pdxruby.org
 
 ## History
@@ -10,3 +12,7 @@ There is also an older version of the site, archived as static html at https://g
 git submodule init
 git submodule update
 ```
+
+## Branches
+
+We recently switched the default branch to `main`. Please update your repo accordingly.
