@@ -10,10 +10,10 @@ A log for contributions and some expenses.
 | Date       | Amount Charged | Amount Reimbursed | Balance   | Name                                                      |
 | :--------- | :------------- | :---------------- | :-------- | :-------------------------------------------------------- |
 | 2021/09/09 |                | $132.94           | $0.00     | [New Relic](https://newrelic.com/) c/o Jonan Scheffler    |
-| 2021/08/25 | $98.94         |                   | -$132.94  | Meetup
+| 2021/08/25 | $98.94         |                   | -$132.94  | Meetup                                                    |
 | 2021/08/01 | $34.00         |                   | -$34.00   | [Relative Path](https://relativepath.io/) c/o Jesse Cooke |
 | 2021/03/08 |                | $98.94            | $0.00     | [Sidekiq](https://sidekiq.org/)                           |
-| 2021/02/23 | $98.94         |                   | -$98.94   | Meetup
+| 2021/02/23 | $98.94         |                   | -$98.94   | Meetup                                                    |
 | 2020/07/25 |                | $34.00            | $0.00     | [Relative Path](https://relativepath.io/) c/o Jesse Cooke |
 | 2020/07/25 | $34.00         |                   | -$34.00   | Gandi DNS renewals                                        |
 | 2019/03/29 |                | $86.00            | $0.00     | [Sidekiq](https://sidekiq.org/)                           |
