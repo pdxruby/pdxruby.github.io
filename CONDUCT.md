@@ -63,10 +63,6 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues—online and in-person—as well as in all one-on-one communications pertaining to community business.
 
-## 9. Contact info
-
-Lauren Voswinkel, lvoswink@gmail.com / (862) 268-5503
-
-## 10. License and attribution
+## 9. License and attribution
 
 This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license. The policy is derived from the [Citizen Code of Conduct](http://citizencodeofconduct.org) created by [Stumptown Syndicate](http://stumptownsyndicate.org).
