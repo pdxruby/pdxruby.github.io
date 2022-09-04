@@ -9,6 +9,7 @@ A log for contributions and some expenses.
 
 | Date       | Amount Charged | Amount Reimbursed | Balance  | Name                                                      |
 | :--------- | :------------- | :---------------- | :------- | :-------------------------------------------------------- |
+| 2022/08/25 | $98.94         |                   | -$205.59 | Meetup                                                    |
 | 2022/07/30 | $106.65        |                   | -$106.65 | Gandi DNS renewals                                        |
 | 2022/03/12 |                | $98.94            | $0.00    | [Sidekiq](https://sidekiq.org/)                           |
 | 2022/02/23 | $98.94         |                   | -$98.94  | Meetup                                                    |
