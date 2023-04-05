@@ -22,8 +22,7 @@ Each third Thursday of the month we meet at the White Owl Social Club in Portlan
 
 For more information:
 
--  [Join our Meetup](http://www.meetup.com/Portland-Ruby-Brigade/)
-    group.
+-  [Join our Meetup group](http://www.meetup.com/Portland-Ruby-Brigade/)
 -  [Chat with us on Slack](https://pdxruby.slack.com)
 
 ### Learn about Ruby and programming
