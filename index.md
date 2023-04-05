@@ -11,10 +11,28 @@ group welcomes all programmers interested in the language and its
 implementations, tools, libraries and frameworks, such as Ruby on Rails.
 The group has been meeting since August 2002 for presentations, demos
 and discussions applicable to all skill levels, from newbies and
-experts. Every month 100+ people come together to share their knowledge,
+experts. Twice every month people come together to share their knowledge,
 projects and enthusiasm for Ruby – join us!
 
-### Participate
+### Meeting Times
+
+Each first Tuesday of the month we have a virtual hangout over Zoom where we get to know each other, discuss projects we're working on, share interesting content, and sometimes watch a recorded technical presentation as a launching pad for conversation.
+
+Each third Thursday of the month we meet at the White Owl Social Club in Portland's Central Eastside for socializing and informal networking.
+
+For more information:
+
+-  [Join our Meetup](http://www.meetup.com/Portland-Ruby-Brigade/)
+    group.
+-  [Chat with us on Slack](https://pdxruby.slack.com)
+
+### Learn about Ruby and programming
+
+New to Ruby or programming? Take a look at our list of resources for [learning Ruby and programming](/learn).
+
+----
+
+### Participate (section undergoing a content revamp, check back soon!)
 
 There are many ways to participate in **pdxruby**:
 
@@ -50,13 +68,6 @@ There are many ways to participate in **pdxruby**:
 -   [Watch videos of past meetings on YouTube](https://www.youtube.com/channel/UCgEEluMvb1Fp3FExqh-YZmw)
 -   [Follow our Code of Conduct](/CONDUCT)
 -   Edit this page! (See also: [the wiki joke](/wikijoke))
-
-### Learn about Ruby and programming
-
-New to Ruby or programming? Take a look at our list of resources for
-[learning Ruby and programming](/learn). Also join us at the
-monthly Ruby Beginners Meetups, details are in the “Participate” section
-above.
 
 ### Past Meetings
 
