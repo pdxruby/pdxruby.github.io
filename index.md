@@ -25,6 +25,10 @@ For more information:
 -  [Join our Meetup group](http://www.meetup.com/Portland-Ruby-Brigade/)
 -  [Chat with us on Slack](https://pdxruby.slack.com)
 
+_New!_ Follow us on Mastodon!
+
+- [@pdx@ruby.social](https://ruby.social/@pdx)
+
 ### Learn about Ruby and programming
 
 New to Ruby or programming? Take a look at our list of resources for [learning Ruby and programming](/learn).
@@ -57,8 +61,6 @@ There are many ways to participate in **pdxruby**:
     information with others.
 -   [Join our Meetup](http://www.meetup.com/Portland-Ruby-Brigade/)
     group. ([contribution log](/contributions))
--   [Follow us on Twitter](http://twitter.com/#!/pdxruby)
-    for meeting announcements and notes.
 -   [Join us on ePDX](http://epdx.org/groups/pdxruby)
     to tell the world that you're part of this user group and find
     others.
