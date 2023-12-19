@@ -9,6 +9,9 @@ A log for contributions and some expenses.
 
 | Date       | Amount Charged | Amount Reimbursed | Balance  | Name                                                      |
 | :--------- | :------------- | :---------------- | :------- | :-------------------------------------------------------- |
+| 2022/03/26 |                | $73.94            | $0.00    | [RailsDevs](https://railsdevs.com/)                       |
+| 2023/03/18 |                | $25.00            | $73.94   | Ramiro Franco                                             |
+| 2023/02/23 | $98.94         |                   | -$98.94  | Meetup                                                    |
 | 2022/09/07 |                | $205.59           | $0.00    | [RailsDevs](https://railsdevs.com/)                       |
 | 2022/08/25 | $98.94         |                   | -$205.59 | Meetup                                                    |
 | 2022/07/30 | $106.65        |                   | -$106.65 | Gandi DNS renewals                                        |
