@@ -19,7 +19,7 @@ github:
   repo: https://github.com/pdxruby/pdxruby.github.io
   name: pdxruby
   project: pdxruby.github.io
-  branch: master
+  branch: main
 # For the prose editor
 prose:
   relativeLinks: 'http://pdxruby.github.io/links.jsonp'
