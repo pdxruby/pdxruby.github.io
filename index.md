@@ -61,9 +61,6 @@ There are many ways to participate in **pdxruby**:
     information with others.
 -   [Join our Meetup](http://www.meetup.com/Portland-Ruby-Brigade/)
     group. ([contribution log](/contributions))
--   [Join us on ePDX](http://epdx.org/groups/pdxruby)
-    to tell the world that you're part of this user group and find
-    others.
 -   [Chat with us on IRC: "\#pdxruby"](irc://irc.freenode.net/#pdxruby)
 -   [Chat with us on Slack](https://pdxruby.slack.com)
 -   [Watch videos of past meetings on YouTube](https://www.youtube.com/channel/UCgEEluMvb1Fp3FExqh-YZmw)
