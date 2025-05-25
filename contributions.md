@@ -9,6 +9,7 @@ A log for contributions and some expenses.
 
 | Date       | Amount Charged | Amount Reimbursed | Balance  | Name                                                      |
 | :--------- | :------------- | :---------------- | :------- | :-------------------------------------------------------- |
+| 2025/05/05 | $34.28         |                   | -$34.28  | Porkbun DNS transfer & renewal                            |
 | 2023/03/26 |                | $73.94            | $0.00    | [RailsDevs](https://railsdevs.com/)                       |
 | 2023/03/18 |                | $25.00            | $73.94   | Ramiro Franco                                             |
 | 2023/02/23 | $98.94         |                   | -$98.94  | Meetup                                                    |
