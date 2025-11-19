@@ -5,6 +5,11 @@ layout: default
 
 ## Contributions
 
+*Note* - As of November 2025, we have archived this page and now track expenses and contributions
+via our [OpenCollective](https://opencollective.com/portland-ruby-brigade/) page. Please use that going forward.
+
+---
+
 A log for contributions and some expenses.
 
 | Date       | Amount Charged | Amount Reimbursed | Balance  | Name                                                                                             |
