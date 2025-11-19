@@ -25,9 +25,10 @@ For more information:
 -  [Join our Meetup group](http://www.meetup.com/Portland-Ruby-Brigade/)
 -  [Chat with us on Slack](https://pdxruby.slack.com)
 
-_New!_ Follow us on Mastodon!
+### New! ###
 
-- [@pdx@ruby.social](https://ruby.social/@pdx)
+- Follow us on Mastodon - [@pdx@ruby.social](https://ruby.social/@pdx)
+- Financially support the group finances by donating through our [OpenCollective](https://opencollective.com/portland-ruby-brigade).
 
 ### Learn about Ruby and programming
 
